@@ -4,57 +4,57 @@
       "name": "El Loco",
       "image": "https://i.ibb.co/8nWXJgWP/The-Fool.png",
       "represents": {
-        "planet": "Uranus",
+        "planet": "Urano",
         "zodiac": "",
-        "element": "Air"
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Nuevos comienzos, espontaneidad, libertad, optimismo, aventura, inocencia, riesgo, curiosidad",
-        "description": "El Loco significa el inicio de un viaje con un corazón abierto y un espíritu libre. Alienta a abrazar nuevas oportunidades y aventuras"
+        "tags": "Nuevos comienzos, espontaneidad, libertad, optimismo, aventura, inocencia, riesgo, curiosidad, apertura, potencial",
+        "description": "El Loco significa el inicio de un viaje con un corazón abierto y un espíritu libre. Alienta a abrazar nuevas oportunidades y aventuras. Espíritu libre que inicia un viaje sin restricciones."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Insensatez, imprudencia, ingenuidad, mal juicio, impulsividad, falta de prudencia, irresponsabilidad, confusión",
-        "description": "El Loco advierte contra acciones impulsivas y una falta de dirección, sugiriendo la necesidad de cautela y planificación reflexiva"
+        "tags": "Insensatez, imprudencia, ingenuidad, mal juicio, impulsividad, falta de prudencia, irresponsabilidad, confusión, dispersión, miedo a lo desconocido",
+        "description": "El Loco advierte contra acciones impulsivas y una falta de dirección, sugiriendo la necesidad de cautela y planificación reflexiva. Advierte sobre imprudencia o dispersión, actuando sin dirección y sin considerar las consecuencias."
       }
     },
     {
       "name": "El Mago",
       "image": "https://i.ibb.co/vxsgxRRn/The-Magician.png",
       "represents": {
-        "planet": "Mercury",
-        "zodiac": "",
-        "element": "Air"
+        "planet": "Mercurio",
+        "zodiac": "Géminis",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Manifestación, ingenio, poder, creatividad, enfoque, habilidad, determinación, influencia",
-        "description": "El Mago representa el poder de manifestar tus deseos a través del ingenio y la habilidad, convirtiendo las ideas en realidad."
+        "description": "El Mago representa el poder de manifestar tus deseos a través del ingenio y la habilidad, convirtiendo las ideas en realidad usando tus habilidades y recursos con claridad y confianza."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Manipulación, engaño, falta de poder, decepción, mal uso, inestabilidad, falsedad, oscuridad",
-        "description": "El Mago advierte contra el engaño o el mal uso de tus talentos, sugiriendo que tus energías pueden estar dispersas o mal dirigidas."
+        "tags": "Manipulación, engaño, falta de poder, decepción, mal uso, inestabilidad, falsedad, dispersión de energía, talento mal dirigido, falta de enfoque",
+        "description": "El Mago advierte contra el engaño o el mal uso de tus talentos, sugiriendo que tus energías pueden estar dispersas o mal dirigidas. Puede señalar manipulación, engaños o falta de enfoque que bloquea tus resultados."
       }
     },
     {
       "name": "La Sacerdotisa",
       "image": "https://i.ibb.co/NgMgntb1/High-Priestess.png",
       "represents": {
-        "planet": "Moon",
-        "zodiac": "",
-        "element": "Water"
+        "planet": "Luna",
+        "zodiac": "Cáncer",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Intuición, misterio, mente subconsciente, sabiduría, percepción, secretos, comprensión, receptividad",
-        "description": "La Sacerdotisa simboliza la sabiduría interior y el misterio del subconsciente, invitándote a confiar en tus instintos."
+        "description": "La Sacerdotisa simboliza la sabiduría interior y el misterio del subconsciente, invitándote a a la introspección, confiar en tus instintos y a escuchar la sabiduría interna, revelando secretos y misterios que guían tu camino."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Secretismo, agendas ocultas, intuición desconectada, engaño, oscuridad, mala interpretación, retraimiento, confusión",
-        "description": "La Sacerdotisa sugiere que puedes estar ignorando tu voz interior o que hay información oculta en juego."
+        "description": "La Sacerdotisa sugiere que puedes estar ignorando tu voz interior o que hay información oculta en juego. Indica desconexión de la intuición, confusión o secretos mal manejados que nublan la claridad."
       }
     },
     {
@@ -62,132 +62,132 @@
       "image": "https://i.ibb.co/Vc1PTyDD/The-Empress.png",
       "represents": {
         "planet": "Venus",
-        "zodiac": "",
-        "element": "Earth"
+        "zodiac": "Tauro",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Creatividad, fertilidad, abundancia, cuidado, crecimiento, belleza, prosperidad, comodidad",
-        "description": "La Emperatriz encarna la creatividad, la energía nutritiva y la abundancia de la naturaleza, invitando al crecimiento y la prosperidad."
+        "tags": "Creatividad, fertilidad, abundancia, cuidado, crecimiento, belleza, prosperidad, comodidad, armonía con la naturaleza, placer material",
+        "description": "La Emperatriz encarna la creatividad, la energía nutritiva y la abundancia de la naturaleza, invitando al crecimiento y la prosperidad. Irradia creatividad y abundancia, fomentando cuidado, fertilidad y la armonía que nutre proyectos y relaciones."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Asfixia, bloqueo creativo, negligencia, estancamiento, dependencia, supresión, limitación, privación",
-        "description": "La Emperatriz puede indicar bloqueos creativos o una influencia excesivamente controladora y asfixiante que sofoca el crecimiento."
+        "tags": "Asfixia, bloqueo creativo, negligencia, estancamiento, dependencia, supresión, limitación, privación, dependencia",
+        "description": "La Emperatriz puede indicar bloqueos creativos o una influencia excesivamente controladora y asfixiante que sofoca el crecimiento. Negligencia en lo afectivo o material. Señala bloqueos creativos, dependencia emocional o descuido de lo que verdaderamente importa."
       }
     },
     {
       "name": "El Emperador",
       "image": "https://i.ibb.co/CXcT4q7/The-Emperor.png",
       "represents": {
-        "planet": "",
+        "planet": "Marte",
         "zodiac": "Aries",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Autoridad, estructura, estabilidad, liderazgo, orden, control, determinación, responsabilidad",
-        "description": "El Emperador representa liderazgo, orden y una estructura sólida que aporta estabilidad y una dirección clara."
+        "description": "El Emperador representa liderazgo, orden y una estructura sólida que aporta estabilidad y una dirección clara promoviendo disciplina, control y liderazgo confiable en la vida y proyectos."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Dominación, rigidez, falta de control, tiranía, inflexibilidad, opresión, autoritarismo, desequilibrio",
-        "description": "El Emperador advierte sobre el control excesivo o la inflexibilidad, lo que conduce a un posible abuso de poder e inestabilidad."
+        "description": "El Emperador advierte sobre el control excesivo o la inflexibilidad, lo que conduce a un posible abuso de poder e inestabilidad que limita la libertad propia o ajena."
       }
     },
     {
       "name": "El Hierofante",
       "image": "https://i.ibb.co/mVzbStRS/Hierophant.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Taurus",
-        "element": "Earth"
+        "planet": "Venus",
+        "zodiac": "Tauro",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Sabiduría espiritual, tradición, conformidad, guía, ritual, moralidad, estructura, herencia",
-        "description": "El Hierofante representa valores tradicionales, guía espiritual y la sabiduría de las instituciones establecidas."
+        "tags": "Sabiduría espiritual, tradición, conformidad, guía, ritual, moralidad, estructura, herencia, armonía social",
+        "description": "El Hierofante representa valores tradicionales, guía espiritual y la sabiduría de las instituciones establecidas. Guía hacia la tradición y el aprendizaje estructurado, ofreciendo sabiduría compartida y valores sólidos."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Rebelión, no convencionalidad, desprecio por la tradición, innovación, inconformismo, disrupción, liberación, pensamiento libre",
-        "description": "El Hierofante sugiere liberarse de tradiciones rígidas y adoptar un enfoque más no convencional."
+        "description": "El Hierofante sugiere liberarse de tradiciones rígidas y adoptar un enfoque más no convencional. Puede reflejar rebeldía ante normas, dogmatismo o restricciones que impiden el crecimiento personal."
       }
     },
     {
       "name": "Los Enamorados",
       "image": "https://i.ibb.co/kFswbcn/The-Lovers.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Gemini",
-        "element": "Air"
+        "planet": "Mercurio",
+        "zodiac": "Géminis",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Amor, armonía, relaciones, unión, pasión, conexión, compromiso, atracción",
-        "description": "La carta de Los Enamorados significa conexiones emocionales profundas, amor y la unión armoniosa de los opuestos."
+        "tags": "Amor, armonía, relaciones, unión, pasión, conexión, compromiso, atracción, elección consciente, comunicación",
+        "description": "La carta de Los Enamorados significa conexiones emocionales profundas, amor y la unión armoniosa de los opuestos. Elección consciente y discernimiento, comunicar necesidades y tomar decisiones con corazón y mente en elecciones significativas."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Desarmonía, desequilibrio, desalineación, conflicto, separación, discordia, tensión, desconexión",
-        "description": "Los Enamorados indica desafíos en las relaciones, mala comunicación o desequilibrios en las conexiones emocionales."
+        "description": "Los Enamorados indica desafíos en las relaciones, mala comunicación o desequilibrios en las conexiones emocionales. Señalan confusión, indecisión, falta de compromiso o relaciones desequilibradas que requieren honestidad y reflexión."
       }
     },
     {
       "name": "El Carro",
       "image": "https://i.ibb.co/pqMfTR4/The-Charriot.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Cancer",
-        "element": "Water"
+        "planet": "Marte",
+        "zodiac": "Cáncer",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Fuerza de voluntad, control, dirección, determinación, impulso, victoria, enfoque, momentum",
-        "description": "El Carro es un símbolo de victoria lograda a través del enfoque, la determinación y el dominio de fuerzas en conflicto."
+        "description": "El Carro es un símbolo de victoria lograda a través del enfoque, la determinación y el dominio de fuerzas en conflicto. Victoria y disciplina personal, control sobre fuerzas internas y externas, avance mediante determinación superando obstáculos con energía."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Falta de control, agresión, energía dispersa, desorden, frustración, impulsividad, inestabilidad, mala dirección",
-        "description": "El Carro advierte sobre una pérdida de dirección o control, y el potencial de un comportamiento imprudente o agresivo."
+        "description": "El Carro advierte sobre una pérdida de dirección o control, y el potencial de un comportamiento imprudente o agresivo que frenan el progreso."
       }
     },
     {
       "name": "La Fuerza",
       "image": "https://i.ibb.co/9kcM2zXB/Strength.png",
       "represents": {
-        "planet": "",
+        "planet": "Sol",
         "zodiac": "Leo",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Coraje, paciencia, fuerza interior, resiliencia, fortaleza, compasión, determinación, resistencia",
-        "description": "La Fuerza representa el poder de la resiliencia interior, la compasión y el control suave para superar obstáculos."
+        "tags": "Coraje, autocontrol, paciencia, fuerza interior, resiliencia, fortaleza, compasión, determinación, resistencia",
+        "description": "La Fuerza representa el poder de la resiliencia interior, la compasión y el control sereno para superar obstáculos. Dominio de los instintos a través de paciencia, compasión y confianza en uno mismo.."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Duda personal, debilidad, inseguridad, vulnerabilidad, vacilación, miedo, incertidumbre, fragilidad",
-        "description": "La Fuerza puede indicar agitación interior, duda personal o falta de confianza al enfrentar desafíos."
+        "description": "La Fuerza puede indicar agitación interior, duda personal, impaciencia o falta de confianza al enfrentar desafíos."
       }
     },
     {
       "name": "El Ermitaño",
       "image": "https://i.ibb.co/vvs4K0qy/The-Hermit.png",
       "represents": {
-        "planet": "",
+        "planet": "Saturno",
         "zodiac": "Virgo",
-        "element": "Earth"
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Introspección, guía, soledad, reflexión, sabiduría, meditación, retiro, claridad",
-        "description": "El Ermitaño fomenta la introspección y la soledad para buscar guía interior y una comprensión más profunda de la vida."
+        "description": "El Ermitaño fomenta la introspección y la soledad para buscar guía interior y una comprensión más profunda de la vida. Invita a la introspección y a la búsqueda de sabiduría personal, iluminando el camino desde la reflexión."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Aislamiento, soledad, retraimiento, alienación, desapego, reclusión, abandono, desconexión",
-        "description": "El Ermitaño puede señalar un aislamiento excesivo o una reticencia a buscar apoyo cuando es necesario."
+        "tags": "Aislamiento, soledad, retraimiento, alienación, desapego, reclusión, abandono, desconexión, falta de introspección, desorientación",
+        "description": "El Ermitaño puede señalar un aislamiento no deseado, soledad excesiva, desconexión del propósito interior o una reticencia a buscar apoyo cuando es necesario."
       }
     },
     {
@@ -195,203 +195,203 @@
       "image": "https://i.ibb.co/HTRKLG10/The-Wheel2.png",
       "represents": {
         "planet": "Jupiter",
-        "zodiac": "",
-        "element": "Fire"
+        "zodiac": "Sagitario",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Suerte, ciclos, cambio, destino, fluctuación, progreso, evolución, oportunidad",
-        "description": "La Rueda de la Fortuna refleja los ciclos siempre cambiantes de la vida, trayendo oportunidades y giros inesperados."
+        "description": "La Rueda de la Fortuna refleja los ciclos siempre cambiantes de la vida, trayendo oportunidades que llegan por destino o circunstancias y giros inesperados."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Mala suerte, resistencia al cambio, imprevisibilidad, infortunio, estancamiento, inestabilidad, interrupción, caos",
-        "description": "La Rueda de la Fortuna sugiere contratiempos, una resistencia al cambio o obstáculos imprevistos."
+        "description": "La Rueda de la Fortuna sugiere contratiempos, una resistencia al cambio,  obstáculos imprevistos, estancamiento o una racha de mala fortuna que requiere adaptación."
       }
     },
     {
       "name": "La Justicia",
       "image": "https://i.ibb.co/wF5NFdbY/Justice.png",
       "represents": {
-        "planet": "",
+        "planet": "Venus",
         "zodiac": "Libra",
-        "element": "Air"
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Justicia, verdad, ley, equilibrio, integridad, igualdad, responsabilidad, orden",
-        "description": "La Justicia representa la imparcialidad, el equilibrio y la aplicación objetiva de la verdad y los estándares legales."
+        "tags": "Justicia, verdad, ley, equilibrio, integridad, igualdad, responsabilidad, orden, verdad",
+        "description": "La Justicia representa la imparcialidad, el equilibrio y la aplicación objetiva de la verdad y los estándares legales. Simboliza equilibrio, verdad y responsabilidad, recordando que cada acción tiene consecuencias y requiere integridad."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Injusticia, parcialidad, desequilibrio, favoritismo, corrupción, inequidad, prejuicio, falta de equidad",
-        "description": "La Justicia advierte sobre la injusticia, el sesgo o una distorsión de la verdad que altera el equilibrio natural."
+        "description": "La Justicia advierte sobre la injusticia, parcialidad o una distorsión de la verdad que altera el equilibrio natural y afectan resultados. Decisiones impulsivas o equivocadas."
       }
     },
     {
       "name": "El Colgado",
       "image": "https://i.ibb.co/ch4vNJSJ/Hanged-Man.png",
       "represents": {
-        "planet": "Neptune",
-        "zodiac": "",
-        "element": "Water"
+        "planet": "Neptuno",
+        "zodiac": "Piscis",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Pausa, rendición, soltar, aceptación, reflexión, sacrificio, liberación, transición",
-        "description": "El Colgado sugiere un momento de pausa y reflexión, invitándote a rendirte a viejos hábitos para ver las cosas de una manera nueva."
+        "description": "El Colgado sugiere un momento de pausa y reflexión, invitándote a rendirte a viejos hábitos para ver las cosas de una manera nueva. Te invita a cambiar de perspectiva, aceptar pausas y sacrificar lo necesario para alcanzar claridad y crecimiento."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Estancamiento, resistencia, martirio, inercia, demora, obstinación, sacrificio, rigidez",
-        "description": "El Colgado indica dificultad para soltar, lo que puede conducir al estancamiento o al autosacrificio."
+        "tags": "Estancamiento, resistencia, martirio, inercia, demora, obstinación, sacrificio, rigidez, sacrificios inútiles, indecisión",
+        "description": "El Colgado indica dificultad para soltar y resistencia al cambio, lo que puede conducir a sacrificios inútiles o sensación de estancamiento."
       }
     },
     {
       "name": "La Muerte",
       "image": "https://i.ibb.co/zTmCgnnL/Death.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Scorpio",
-        "element": "Water"
+        "planet": "Plutón",
+        "zodiac": "Escorpio",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Transformación, finales, nuevos comienzos, renovación, cambio, transición, evolución, cierre",
-        "description": "La Muerte señala una transformación poderosa, marcando el final de una etapa y el comienzo de otra."
+        "description": "La Muerte señala una transformación profunda y poderosa, marcando el final de una etapa y el comienzo de otra permitiendo dejar atrás lo que ya no sirve."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Resistencia al cambio, estancamiento, miedo a los finales, evasión, inercia, negación, reticencia, demora",
-        "description": "La Muerte sugiere una falta de disposición para soltar el pasado, lo que resulta en estancamiento u oportunidades perdidas de crecimiento."
+        "description": "La Muerte sugiere una falta de disposición para soltar el pasado, miedo al cambio y negación de finales necesarios, lo que resulta en estancamiento u oportunidades perdidas de crecimiento."
       }
     },
     {
       "name": "La Templanza",
       "image": "https://i.ibb.co/Xf4zd47P/Temperance.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Sagittarius",
-        "element": "Fire"
+        "planet": "Júpiter",
+        "zodiac": "Sagitario",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Equilibrio, moderación, armonía, integración, sinergia, balance, paciencia, cooperación",
-        "description": "La Templanza fomenta el equilibrio y la integración de los opuestos, guiándote hacia la armonía y la moderación."
+        "description": "La Templanza fomenta el equilibrio, la integración de los opuestos y equilibrio interno, guiándote hacia la armonía, la moderación y cooperación. Mezcla de fuerzas opuestas e integración pacífica."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Desequilibrio, exceso, discordia, indulgencia excesiva, conflicto, desarmonía, interrupción, extremismo",
-        "description": "La Templanza advierte sobre los extremos o la falta de equilibrio que altera la armonía en tu vida."
+        "description": "La Templanza advierte sobre los extremos o la falta de equilibrio que altera la armonía, paz y claridad en tu vida."
       }
     },
     {
       "name": "El Diablo",
       "image": "https://i.ibb.co/XrSKQR4G/The-Devil.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Capricorn",
-        "element": "Earth"
+        "planet": "Saturno",
+        "zodiac": "Capricornio",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "No",
         "tags": "Atadura, adicción, materialismo, tentación, dependencia, restricción, esclavitud, obsesión",
-        "description": "El Diablo representa las cadenas de la adicción, el materialismo y los apegos poco saludables que te atan."
+        "description": "El Diablo representa las cadenas de la adicción, el materialismo y los apegos poco saludables que te atan, invitando a reconocer los límites que uno mismo se impone."
       },
       "reversed": {
         "yesno": "Yes",
         "tags": "Libertad, liberación, superación de la adicción, emancipación, empoderamiento, recuperación, desatarse, renovación",
-        "description": "El Diablo indica la posibilidad de liberarse de patrones negativos y recuperar el control."
+        "description": "El Diablo indica la posibilidad de liberarse de patrones negativos, superación de hábitos destructivos y recuperar el control."
       }
     },
     {
       "name": "La Torre",
       "image": "https://i.ibb.co/8DPdC7ZZ/The-Tower.png",
       "represents": {
-        "planet": "Mars",
+        "planet": "Marte",
         "zodiac": "",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "No",
         "tags": "Cambio repentino, agitación, caos, interrupción, revelación, impacto, colapso, transformación",
-        "description": "La Torre señala un cambio dramático, a veces disruptivo, que aunque resulta inquietante, allana el camino para la transformación."
+        "description": "La Torre señala un cambio dramático, a veces disruptivo, que aunque resulta inquietante, allana el camino para la transformación siendo un choque necesario para despertar. Ruptura repentina, crisis o revelaciones inesperadas que obligan a reconstruir desde cero, ruptura de estructuras obsoletas."
       },
       "reversed": {
         "yesno": "Yes",
         "tags": "Evitación del desastre, miedo al cambio, agitación retrasada, resistencia, postergación, vacilación, seguridad, cautela",
-        "description": "La Torre puede indicar una reticencia a enfrentar un cambio necesario o un retraso temporal en la agitación."
+        "description": "La Torre puede indicar una resistencia o miedo a enfrentar un cambio necesario,  un retraso temporal en la agitación o intentos de evitar la caída necesaria."
       }
     },
     {
       "name": "La Estrella",
       "image": "https://i.ibb.co/NgMNNChv/The-Star.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Aquarius",
-        "element": "Air"
+        "planet": "Urano, Júpiter",
+        "zodiac": "Acuario",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Esperanza, inspiración, serenidad, renovación, guía, optimismo, claridad, paz",
-        "description": "La Estrella ofrece un faro de esperanza e inspiración, guiándote hacia la paz interior y la claridad."
+        "description": "La Estrella ofrece un faro de esperanza e inspiración, guiándote hacia la paz interior y la claridad, recordando que la fe y la inspiración iluminan los caminos difíciles. Conexión con ideales más elevados."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Desesperación, desilusión, pérdida de fe, desesperanza, desconexión, abatimiento, escepticismo, tristeza",
-        "description": "La Estrella sugiere sentimientos de desaliento o desconexión de tu luz interior."
+        "description": "La Estrella sugiere sentimientos de desaliento o desconexión de tu luz interior. Advierte sobre desilusión, pérdida de fe o desconexión con la esperanza y el propósito."
       }
     },
     {
       "name": "La Luna",
       "image": "https://i.ibb.co/FkcJSYpN/The-Moon.png",
       "represents": {
-        "planet": "",
-        "zodiac": "Pisces",
-        "element": "Water"
+        "planet": "Neptuno",
+        "zodiac": "Piscis",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Ilusión, miedo, ansiedad, incertidumbre, misterio, confusión, inseguridad, aprensión",
-        "description": "La Luna te invita a explorar tu subconsciente y enfrentar miedos ocultos e incertidumbres."
+        "tags": "Ilusión, miedo, ansiedad, incertidumbre, misterio, confusión, inseguridad, aprensión, emociones profundas",
+        "description": "La Luna te invita a explorar tu subconsciente y enfrentar miedos ocultos e incertidumbres, revelando ilusiones y la necesidad de navegar entre sombras y sueños."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Confusión, mala interpretación, ansiedad intensificada, distorsión, ambigüedad, inestabilidad, paranoia, desorientación",
-        "description": "La Luna advierte sobre un aumento de la ansiedad, malas interpretaciones o engaño que nublan tu juicio."
+        "tags": "Confusión, mala interpretación, ansiedad intensificada, distorsión, ambigüedad, inestabilidad, paranoia, desorientación emocional",
+        "description": "La Luna advierte sobre un aumento de la ansiedad, confusión, engaño o miedo a enfrentar verdades ocultas causando malas interpretaciones o engaño que nublan tu juicio."
       }
     },
     {
       "name": "El Sol",
       "image": "https://i.ibb.co/0pmZwBh6/The-Sun.png",
       "represents": {
-        "planet": "Sun",
-        "zodiac": "",
-        "element": "Fire"
+        "planet": "Sol",
+        "zodiac": "Leo",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Alegría, éxito, positividad, vitalidad, energía, claridad, entusiasmo, logro",
-        "description": "El Sol irradia positividad, éxito y vitalidad, simbolizando calidez y energía alegre."
+        "description": "El Sol irradia positividad, éxito y vitalidad, simbolizando calidez y energía alegre, celebrando logros y momentos de plenitud."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Contratiempos temporales, falta de claridad, hipersensibilidad, duda, nubosidad, vulnerabilidad, incertidumbre, retrasos",
-        "description": "El Sol puede sugerir obstáculos temporales o una atenuación de la energía positiva habitual."
+        "description": "El Sol puede sugerir obstáculos temporales o una atenuación de la energía positiva habitual, advirtiendo sobre obstáculos para la felicidad, falta de claridad o ego inflado."
       }
     },
     {
       "name": "El Juicio",
       "image": "https://i.ibb.co/0RkQsgVR/Judgement.png",
       "represents": {
-        "planet": "Pluto",
-        "zodiac": "",
-        "element": "Fire"
+        "planet": "Plutón",
+        "zodiac": "Escorpio",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Reflexión, ajuste de cuentas, despertar, evaluación, renovación, realización, introspección, transformación",
-        "description": "El Juicio llama a una autorreflexión honesta y a la oportunidad de despertar a una nueva etapa de la vida"
+        "description": "El Juicio llama a una autorreflexión honesta y a la oportunidad de despertar a una nueva etapa de la vida. Representa renacimiento, despertar y evaluación de acciones pasadas, impulsando a asumir responsabilidad y avanzar."
       },
       "reversed": {
         "yesno": "No",
@@ -403,1085 +403,1085 @@
       "name": "El Mundo",
       "image": "https://i.ibb.co/KpLNHyhS/the-world.png",
       "represents": {
-        "planet": "Saturn",
-        "zodiac": "",
-        "element": "Earth"
+        "planet": "Saturno",
+        "zodiac": "Capricornio",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
         "tags": "Finalización, logro, viajes, realización, unidad, plenitud, éxito, integración",
-        "description": "El Mundo celebra la finalización exitosa de un ciclo, marcando la realización y la plenitud."
+        "description": "El Mundo celebra la finalización exitosa de un ciclo, marcando la realización y la plenitud de logros completados."
       },
       "reversed": {
         "yesno": "No",
         "tags": "Tareas incompletas, retrasos, falta de cierre, inconcluso, interrupción, postergación, fragmentación, desintegración",
-        "description": "El Mundo indica asuntos sin terminar o retrasos en alcanzar tu máximo potencial."
+        "description": "El Mundo indica asuntos sin terminar, retrasos en logros o desconexión con el entorno y el propio propósito para alcanzar tu máximo potencial."
       }
     }
   ],
   "Minor": [
     {
-      "name": "Ace of Swords",
+      "name": "As de Espadas",
       "image": "https://i.ibb.co/qLDGyYNk/Swords-1.png",
       "represents": {
         "planet": "",
         "zodiac": "",
-        "element": "Air"
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Breakthrough, clarity, sharp mind, insight, decisiveness, focus, vision, truth",
-        "description": "The Ace of Swords heralds a breakthrough in thought and clarity of vision, cutting through confusion to reveal truth."
+        "tags": "Avance decisivo, claridad, mente aguda, comprensión, determinación, enfoque, visión, verdad",
+        "description": "El As de Espadas anuncia un avance decisivo en el pensamiento y claridad de visión, cortando la confusión para revelar la verdad y tomar decisiones con lógica y determinación. Representa un \"avance\" donde la lógica y la razón cortan ilusiones."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Confusion, miscommunication, mental block, obscurity, doubt, disarray, misunderstanding, fog",
-        "description": "The Ace of Swords warns of confusion or miscommunication, suggesting that clarity may be obstructed."
+        "tags": "Confusión, mala comunicación, bloqueo mental, oscuridad, duda, desorden, malentendido, niebla",
+        "description": "El As de Espadas indica confusión y mala comunicación, cuando la claridad se ve bloqueada y la lógica se nubla por las emociones. Señala malentendidos, retrasos o la necesidad de replantear ideas, recordando detenerse, reflexionar y buscar claridad antes de actuar."
       }
     },
     {
-      "name": "Two of Swords",
+      "name": "Dos de Espadas",
       "image": "https://i.ibb.co/3Ys7vCZW/Swords-2.png",
       "represents": {
         "planet": "Moon",
         "zodiac": "Libra",
-        "element": "Air"
+        "element": "Aire"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Indecision, choices, stalemate, dilemma, uncertainty, conflict, impasse, hesitation",
-        "description": "The Two of Swords reflects a difficult decision or a stalemate in thought, urging you to seek clarity."
+        "tags": "Indecisión, elecciones, estancamiento, dilema, incertidumbre, conflicto, punto muerto, vacilación, bloqueo emocional",
+        "description": "El Dos de Espadas refleja indecisión y la necesidad de tomar una decisión difícil, mostrando un estancamiento donde lógica e intuición deben equilibrarse. Simboliza bloqueo mental, parálisis por análisis y la evitación de una verdad incómoda, representando el conflicto entre la razón y la emoción."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Overwhelm, imbalance, confusion, disorder, chaos, disorganization, dissonance, turmoil",
-        "description": "The Two of Swords indicates a breakdown in decision-making, often leading to further confusion."
+        "tags": "Abrumamiento, desequilibrio, confusión, desorden, caos, desorganización, disonancia, agitación",
+        "description": "El Dos de Espadas indica un quiebre en la toma de decisiones, llevando a confusión, estancamiento o negación de la realidad. Representa un punto muerto de parálisis por indecisión, ansiedad y agitación emocional, y sugiere enfrentar la decisión en lugar de postergarla, por difícil que sea"
       }
     },
     {
-      "name": "Three of Swords",
+      "name": "Tres de Espadas",
       "image": "https://i.ibb.co/jvSDRh4m/Swords-3.png",
       "represents": {
-        "planet": "Saturn",
+        "planet": "Saturno",
         "zodiac": "Libra",
-        "element": "Air"
+        "element": "Aire"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Heartbreak, grief, sorrow, pain, loss, betrayal, despair, mourning",
-        "description": "The Three of Swords symbolizes deep emotional pain and heartbreak, urging acknowledgement and healing."
+        "tags": "Desamor, dolor, pena, sufrimiento, pérdida, traición, desesperación, duelo, angustia",
+        "description": "El Tres de Espadas simboliza un profundo dolor emocional, perdida y desamor, invitando a enfrentar la tristeza para liberar el corazón y aprender de la experiencia. Indica situaciones de dolor emocional provocado por terceros, rupturas o discusiones graves y es un llamado a enfrentar el dolor y no negarlo."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Recovery, forgiveness, healing, renewal, reconciliation, mending, resurgence, hope",
-        "description": "The Three of Swords offers the promise of recovery and the potential to heal from past hurts."
+        "tags": "Recuperación, perdón, sanación, renovación, reconciliación, reparación, resurgimiento, esperanza, cicatrizacion",
+        "description": "El Tres de Espadas indica que el peor momento ha pasado y se inicia la recuperación soltando rencores, perdonar y dejar ir traumas pasados ofreciendo la promesa de recuperación e inicio de la sanación, el perdón, la superación del trauma y la liberación emocional."
       }
     },
     {
-      "name": "Four of Swords",
+      "name": "Cuatro de Espadas",
       "image": "https://i.ibb.co/RksDQ1Bn/Swords-4.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Libra",
-        "element": "Air"
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Rest, recovery, contemplation, pause, calm, relaxation, introspection, renewal",
-        "description": "The Four of Swords invites a period of rest and contemplation, allowing for mental and physical recovery."
+        "tags": "Descanso, recuperación, contemplación, pausa, calma, relajación, introspección, renovación",
+        "description": "El Cuatro de Espadas invita a un período de descanso, la reflexión y la recuperación mental y contemplación, permitiendo la recuperación mental y física para sanar tras conflictos o esfuerzos intensos. A menudo sugiere un \"paréntesis\" para reorganizarse antes de volver a la acción."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Restlessness, burnout, anxiety, tension, fatigue, agitation, stress, disturbance",
-        "description": "The Four of Swords may indicate a reluctance to rest, leading to exhaustion or heightened stress."
+        "tags": "Inquietud, agotamiento, ansiedad, tensión, fatiga, agitación, estrés, perturbación",
+        "description": "El Cuatro de Espadas indica renuencia a descansar y estrés que bloquea la recuperación, llevando al agotamiento. También señala el fin de un periodo de descanso, un despertar y la necesidad de retomar la actividad tras una etapa difícil."
       }
     },
     {
-      "name": "Five of Swords",
+      "name": "Cinco de Espadas",
       "image": "https://i.ibb.co/ZpHf5g55/Swords-5.png",
       "represents": {
         "planet": "Venus",
-        "zodiac": "Aquarius",
-        "element": "Air"
+        "zodiac": "Acuario",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Conflict, tension, defeat, struggle, discord, rivalry, confrontation, loss",
-        "description": "The Five of Swords reflects a situation of conflict and tension, where winning may come at too high a cost."
+        "tags": "Conflicto, tensión, derrota, lucha, discordia, rivalidad, confrontación, pérdida",
+        "description": "El Cinco de Espadas simboliza conflictos y victorias a alto costo emocional, con tensiones y posibles acciones poco éticas. Advierte sobre un ego desmedido que deja resentimiento y relaciones dañadas, invitando a reflexionar sobre las consecuencias, evitar la crueldad en la búsqueda de objetivos y actuar con responsabilidad."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Resolution, reconciliation, compromise, settlement, understanding, peace, agreement, unity",
-        "description": "The Five of Swords signals the potential for resolving conflicts through compromise and understanding."
+        "tags": "Resolución, reconciliación, compromiso, arreglo, entendimiento, paz, acuerdo, unidad",
+        "description": "El Cinco de Espadas señala la posibilidad de resolver conflictos a través del compromiso y la comprensión. Representa el cierre de un período de tensión o desacuerdo, con el deseo de dejar ir la ira, perdonar y pasar página. Sugiere que la persona está lista para poner fin a una pelea, aceptar una derrota o alejarse de una situación tóxica, priorizando la paz sobre la victoria. Indica reconciliación, el fin del conflicto y dejar atrás el rencor.\""
       }
     },
     {
-      "name": "Six of Swords",
+      "name": "Seis de Espadas",
       "image": "https://i.ibb.co/LBxPvh9/Swords-6.png",
       "represents": {
-        "planet": "Mercury",
-        "zodiac": "Aquarius",
-        "element": "Air"
+        "planet": "Mercurio",
+        "zodiac": "Acuario",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Transition, change, rite of passage, journey, movement, progress, transformation, evolution",
-        "description": "The Six of Swords represents a journey away from difficulty toward calmer waters—a rite of passage into a new phase."
+        "tags": "Transición, cambio, rito de paso, viaje, movimiento, progreso, transformación, evolución",
+        "description": "El Seis de Espadas representa una transición necesaria, alejándose de conflictos o situaciones dolorosas hacia aguas más tranquilas y estables. Simboliza superar adversidades, realizar cambios, avanzar y encontrar alivio emocional, recordando que dejar atrás lo que ya no sirve es parte del proceso de sanación. Es un \"sí\" silencioso al cambio necesario."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Resistance to change, emotional baggage, stagnation, hesitation, burden, nostalgia, inertia, reluctance",
-        "description": "The Six of Swords suggests a reluctance to leave the past behind, resulting in lingering emotional turmoil."
+        "tags": "Resistencia al cambio, carga emocional, estancamiento, vacilación, peso, nostalgia, inercia, renuencia",
+        "description": "El Seis de Espadas indica renuencia a dejar el pasado atrás, generando malestar emocional persistente. Aunque intentas avanzar y realizar la transición necesaria, enfrentas dificultades, demoras y retrasos. No es un buen momento para correr riesgos, hacer inversiones o gastos."
       }
     },
     {
-      "name": "Seven of Swords",
+      "name": "Siete de Espadas",
       "image": "https://i.ibb.co/JFsJvbnf/Swords-7.png",
       "represents": {
-        "planet": "Moon",
-        "zodiac": "Aquarius",
-        "element": "Air"
+        "planet": "Luna",
+        "zodiac": "Acuario",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Deception, strategy, betrayal, cunning, stealth, secrecy, trickery, guile",
-        "description": "The Seven of Swords points to cunning strategy or hidden motives—either as a defense or a means of betrayal."
+        "tags": "Engaño, estrategia, traición, astucia, sigilo, secreto, artimaña, astucia",
+        "description": "El Siete de Espadas señala astucia y motivos ocultos, ya sea para protegerse o con intención de traicionar. Representa estrategias inteligentes, sigilo y, a veces, engaño. Indica la necesidad de actuar con cautela, evitar conflictos o abordar problemas con ingenio. También puede reflejar el deseo de evadir responsabilidades o comportamientos poco éticos. Confía en tu intuición cuando algo parece demasiado bueno para ser verdad."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Confrontation, exposure, accountability, revelation, justice, honesty, unmasking, transparency",
-        "description": "The Seven of Swords suggests that deception will be exposed and urges accountability in your actions."
+        "tags": "Confrontación, exposición, responsabilidad, revelación, justicia, honestidad, desenmascaramiento, transparencia",
+        "description": "El Siete de Espadas sugiere que la verdad sale a la luz, las mentiras son descubiertas y es momento de asumir la responsabilidad, confesar o dejar de actuar con sigilo, revelando intenciones ocultas o enfrentando las consecuencias de una conducta inapropiada. Es un llamado a la transparencia y la integridad, dejando atrás la necesidad de ocultarse."
       }
     },
     {
-      "name": "Eight of Swords",
+      "name": "Ocho de Espadas",
       "image": "https://i.ibb.co/CKwgvJy6/Swords-8.png",
       "represents": {
         "planet": "Jupiter",
-        "zodiac": "Gemini",
-        "element": "Air"
+        "zodiac": "Geminis",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Restriction, imprisonment, fear, limitation, confinement, entrapment, doubt, paralysis",
-        "description": "The Eight of Swords depicts feeling trapped or restricted by your own fears and limitations."
+        "tags": "Restricción, encarcelamiento, miedo, limitación, confinamiento, atrapamiento, duda, parálisis",
+        "description": "El Ocho de Espadas representa sentirse atrapado o limitado por tus propios miedos y restricciones. Representa una situación de angustia mental donde la persona se siente incapaz de actuar, a menudo ignorando la solución obvia debido a la autocompasión, la duda o la falta de perspectiva. Invita a la liberación a través de la claridad mental, animando a dejar de lado la mentalidad de víctima."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Liberation, empowerment, clarity, release, freedom, insight, breakthrough, renewal",
-        "description": "The Eight of Swords signals the breaking of mental bonds and a newfound sense of freedom."
+        "tags": "Liberación, empoderamiento, claridad, liberación, libertad, insight, avance, renovación",
+        "description": "El Ocho de Espadas señala la ruptura de los lazos mentales y un sentido de libertad recién descubierto. Indica un despertar a la propia responsabilidad en una situación, superando la mentalidad de víctima, soltando pensamientos negativos y ganando claridad mental para avanzar. Representa escapar de una situación estresante."
       }
     },
     {
-      "name": "Nine of Swords",
+      "name": "Nueve de Espadas",
       "image": "https://i.ibb.co/JWqd3pzs/Swords-9.png",
       "represents": {
-        "planet": "Mars",
-        "zodiac": "Gemini",
-        "element": "Air"
+        "planet": "Marte",
+        "zodiac": "Geminis",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Anxiety, hopelessness, nightmares, distress, worry, despair, dread, insomnia",
-        "description": "The Nine of Swords is a card of anxiety and distress, often reflecting worries that keep you up at night."
+        "tags": "Ansiedad, desesperanza, pesadillas, aflicción, preocupación, desesperación, temor, insomnio",
+        "description": "El Nueve de Espadas es una carta de ansiedad y aflicción, reflejando a menudo preocupaciones que te mantienen despierto por la noche. Indica angustia mental, insomnio y sentirse abrumado, pero sugiere que los peores temores no son tan reales como parecen. Invita a la reflexión y a buscar ayuda para liberar la carga."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Relief, recovery, facing fears, courage, overcoming, resurgence, clarity, hope",
-        "description": "The Nine of Swords suggests that you are beginning to confront and overcome your deepest anxieties."
+        "tags": "Alivio, recuperación, enfrentar miedos, coraje, superación, resurgimiento, claridad, esperanza",
+        "description": "El Nueve de Espadas indica que estás empezando a enfrentar y superar tus ansiedades más profundas. Representa el alivio de preocupaciones, el fin de un periodo de culpa y el miedo excesivo, y el inicio de la recuperación mental. Señala una apertura a la esperanza, la liberación del estrés y la disposición a aceptar ayuda."
       }
     },
     {
-      "name": "Ten of Swords",
+      "name": "Diez de Espadas",
       "image": "https://i.ibb.co/fKKHvHB/Swords-10.png",
       "represents": {
-        "planet": "Sun",
-        "zodiac": "Gemini",
-        "element": "Air"
+        "planet": "Sol",
+        "zodiac": "Geminis",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Endings, betrayal, collapse, ruin, finality, defeat, downfall, termination",
-        "description": "The Ten of Swords signals the absolute end of a cycle, often accompanied by pain or a sense of betrayal."
+        "tags": "Finales, traición, colapso, ruina, terminación, derrota, caída, término",
+        "description": "El Diez de Espadas marca el fin de un ciclo doloroso, a menudo con traición o sufrimiento, señalando que lo peor ya pasó. Representa tocar fondo, sobrevivir a un desastre, empezar la recuperación y liberar traumas pasados recordando que aceptar el final y soltar la negatividad permite sanar y retomar la esperanza."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Recovery, regeneration, new beginnings, rebirth, resurgence, healing, revival, opportunity",
-        "description": "The Ten of Swords offers the promise of regeneration and the opportunity to rebuild after a collapse."
+        "tags": "Recuperación, regeneración, nuevos comienzos, renacimiento, resurgimiento, sanación, revitalización, oportunidad",
+        "description": "El Diez de Espadas ofrece la promesa de regeneración y la oportunidad de reconstruir tras un colapso. Indica sobrevivir a un desastre, aunque puede significar resistirse a aceptar el final de una situación o postergar el dolor. Es un mensaje de esperanza tras la ruina, señalando que lo peor ya pasó y es momento de curar las heridas, siempre y cuando se aceptes dejar ir la negatividad."
       }
     },
     {
-      "name": "Page of Swords",
+      "name": "Sota de Espadas",
       "image": "https://i.ibb.co/MDrZsnxC/Page-of-Swords.png",
       "represents": {
         "planet": "",
-        "zodiac": "Capricorn, Pisces",
-        "element": "Air"
+        "zodiac": "Capricornio, Piscis",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Curiosity, vigilance, communication, alertness, observation, insight, learning, exploration",
-        "description": "The Page of Swords is energetic and curious, eager to learn and communicate ideas with a sharp mind."
+        "tags": "Curiosidad, vigilancia, comunicación, alerta, observación, perspicacia, aprendizaje, exploración",
+        "description": "La Sota de Espadas es energética y curiosa, ansiosa por aprender y comunicar ideas con una mente aguda. Simboliza energía mental, curiosidad y la búsqueda de la verdad, con una comunicación directa y a veces noticias inesperadas. Es una 'brisa fresca' que aporta claridad, invitando a usar la lógica y mantener la mente abierta."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Impulsiveness, defensiveness, miscommunication, rashness, overreaction, misunderstanding, insensitivity, volatility",
-        "description": "The Page of Swords warns of rash words or a tendency to be overly defensive in communication."
+        "tags": "Impulsividad, defensividad, mala comunicación, precipitación, sobrerreacción, malentendido, insensibilidad, volatilidad",
+        "description": "La Sota de Espadas advierte sobre palabras impulsivas y actitudes defensivas. Representa manipulación, cinismo, promesas vacías o inmadurez en la comunicación, e incluso noticias desagradables o comportamientos engañosos. Sugiere reflexionar antes de hablar y evitar la necesidad de tener siempre la razón o defenderse a toda costa."
       }
     },
     {
-      "name": "Knight of Swords",
+      "name": "Caballero de Espadas",
       "image": "https://i.ibb.co/TdSpY9Z/Knight-of-Swords.png",
       "represents": {
         "planet": "",
-        "zodiac": "Gemini, Taurus",
-        "element": "Air"
+        "zodiac": "Géminis, Tauro",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Ambition, action, focus, drive, determination, momentum, decisiveness, energy",
-        "description": "The Knight of Swords charges forward with determination and focus, ready to pursue his goals with energy."
+        "tags": "Ambición, acción, enfoque, impulso, determinación, momentum, decisión, energía",
+        "description": "El Caballero de Espadas avanza con determinación y enfoque, persiguiendo sus objetivos con energía y rapidez. Representa acción directa, intelecto agudo y una valentía audaz en la búsqueda de la verdad y alcanzar sus metas. Sin embargo, advierte sobre la impulsividad, la precipitación y el riesgo de agotarse por exceso de ambición, invitando a equilibrar coraje con reflexión antes de actuar."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Impulsiveness, recklessness, lack of focus, disorder, haste, inconsistency, distraction, imprudence",
-        "description": "The Knight of Swords can indicate rash actions without thought, resulting in mistakes or setbacks."
+        "tags": "Impulsividad, imprudencia, falta de enfoque, desorden, prisa, inconsistencia, distracción, imprudencia",
+        "description": "El Caballero de Espadas invertido señala acciones impulsivas y falta de reflexión, llevando a errores o retrocesos. Representa impaciencia, energía desbordante sin dirección y decisiones precipitadas, advirtiendo sobre agresividad, falta de planificación y el riesgo de lastimarse a sí mismo o a otros por actuar sin pensar. Aconseja detenerse, pensar antes de actuar y evitar forzar situaciones."
       }
     },
     {
-      "name": "Queen of Swords",
+      "name": "Reina de Espadas",
       "image": "https://i.ibb.co/5hSJ3wbQ/Queen-of-Swords.png",
       "represents": {
         "planet": "",
         "zodiac": "Libra, Virgo",
-        "element": "Air"
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Perception, independence, clarity, wisdom, insight, honesty, acumen, sharpness",
-        "description": "The Queen of Swords is known for her sharp intellect, independence, and clear perception of the truth."
+        "tags": "Percepción, independencia, claridad, sabiduría, perspicacia, honestidad, agudeza, nitidez",
+        "description": "La Reina de Espadas simboliza claridad mental, inteligencia perspicaz y honestidad directa, juzgando situaciones basándose en hechos y no solo en emociones. Invita a equilibrar la racionalidad con la empatía, usando la verdad para establecer límites claros, tomar decisiones justas y comunicar con sensibilidad, evitando la dureza innecesaria en las palabras."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Coldness, cruelty, misinterpretation, harshness, detachment, bias, skepticism, rigidity",
-        "description": "The Queen of Swords may indicate a tendency toward harshness or a misinterpretation of the facts."
+        "tags": "Frialdad, crueldad, mala interpretación, dureza, desapego, sesgo, escepticismo, rigidez",
+        "description": "La Reina de Espadas invertida puede indicar dureza, frialdad emocional y mala interpretación de los hechos, con críticas severas o palabras hirientes. Representa una mente bloqueada o excesivamente cínica, sugiriendo la necesidad de suavizar la postura, dejar de aislarse y permitir que la vulnerabilidad guíe la comunicación, evitando la crueldad para mejorar relaciones y la toma de decisiones."
       }
     },
     {
-      "name": "King of Swords",
+      "name": "Rey de Espadas",
       "image": "https://i.ibb.co/BKZdPRM1/King-of-Swords.png",
       "represents": {
         "planet": "",
-        "zodiac": "Aquarius, Capricorn",
-        "element": "Air"
+        "zodiac": "Acuario, Capricornio",
+        "element": "Aire"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Authority, discipline, truth, logic, fairness, judgment, reason, decisiveness",
-        "description": "The King of Swords embodies intellectual authority, discipline, and a commitment to truth and fairness."
+        "tags": "Autoridad, disciplina, verdad, lógica, justicia, juicio, razón, determinación",
+        "description": "El Rey de Espadas encarna la autoridad intelectual, la disciplina y un compromiso con la verdad y la justicia. Representa inteligencia aguda, claridad mental y una comunicación directa y honesta. Anima a utilizar el intelecto y la justicia para resolver conflictos, invitando a la toma de decisiones firmes, basadas en la verdad y con una visión a largo plazo."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Tyranny, rigidity, abuse of power, domination, inflexibility, oppression, misconduct, corruption",
-        "description": "The King of Swords warns of using power in a dictatorial way or being overly rigid in your judgments."
+        "tags": "Tiranía, rigidez, abuso de poder, dominación, inflexibilidad, opresión, mala conducta, corrupción",
+        "description": "El Rey de Espadas advierte sobre el uso del poder de manera dictatorial o ser excesivamente rígido en tus juicios. Representa juicios autoritarios, manipulación, tiranía y decisiones poco éticas tomadas desde una mente inflexible. Indica rigidez mental, comunicación hiriente y abuso de poder, advirtiendo la necesidad de cambiar de perspectiva o alejarse de influencias tóxicas. Aconseja evitar involucrarse con personas manipuladoras, dejar de intentar controlar situaciones y comunicarse de manera más honesta y menos autoritaria."
       }
     },
     {
-      "name": "Ace of Cups",
+      "name": "As de Copas",
       "image": "https://i.ibb.co/hRmJcK1S/Cups-1.png",
       "represents": {
         "planet": "",
         "zodiac": "",
-        "element": "Water"
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Love, compassion, creativity, emotion, intuition, joy, inspiration, renewal",
-        "description": "The Ace of Cups signifies an overflow of emotions and the start of a new, heartfelt journey in love and creativity."
+        "tags": "Amor, compasión, creatividad, emoción, intuición, alegría, inspiración, renovación",
+        "description": "El As de Copas significa un desbordamiento de emociones y el inicio de un nuevo viaje sincero en el amor y la creatividad. representa el inicio de una nueva etapa emocional, amorosa o creativa, simbolizando abundancia, alegría y el despertar de sentimientos profundos. Como arquetipo de amor y espiritualidad, augura conexiones significativas, intuición y un \"soplo de aire fresco\" emocional."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Emotional blockage, emptiness, missed opportunities, stagnation, detachment, disconnection, withdrawal, unfulfillment",
-        "description": "The Ace of Cups warns of emotional stagnation or an inability to fully embrace your creative or loving potential."
+        "tags": "Bloqueo emocional, vacío, oportunidades perdidas, estancamiento, desapego, desconexión, retiro, insatisfacción",
+        "description": "El As de Copas advierte sobre estancamiento emocional o la incapacidad de abrazar plenamente tu potencial creativo o amoroso. Simboliza principalmente bloqueos emocionales, inestabilidad, decepción o una desconexión de los propios sentimientos, a menudo indicando la necesidad de sanación interior antes de iniciar nuevas relaciones. Invita a mirar hacia adentro, cuidarse a uno mismo y trabajar en el amor propio en lugar de buscar validación externa."
       }
     },
     {
-      "name": "Two of Cups",
+      "name": "Dos de Copas",
       "image": "https://i.ibb.co/prWHHzgk/Cups-2.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Cancer",
-        "element": "Water"
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Unity, partnership, attraction, connection, harmony, balance, intimacy, union",
-        "description": "The Two of Cups represents a deep and harmonious partnership, marked by mutual attraction and shared feelings."
+        "tags": "Unidad, compañerismo, atracción, conexión, armonía, equilibrio, intimidad, unión",
+        "description": "El Dos de Copas representa una asociación profunda y armoniosa, marcada por atracción mutua y sentimientos compartidos. Representa la armonía en parejas, amistades o sociedades basadas en la igualdad, la confianza y la reciprocidad. Es una carta positiva que sugiere acuerdos sinceros e invita a la unión y a valorar la conexión con los demás."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Disconnection, imbalance, separation, discord, fragmentation, isolation, estrangement, disunity",
-        "description": "The Two of Cups suggests disharmony or an imbalance in a relationship, signaling potential disconnect."
+        "tags": "Desconexión, desequilibrio, separación, discordia, fragmentación, aislamiento, distanciamiento, desunión",
+        "description": "El Dos de Copas sugiere desarmonía y desequilibrio en una relación, señalando un posible distanciamiento y una ruptura de la reciprocidad emocional. Simboliza tensiones, malentendidos, desconfianza y conflictos en parejas, amistades o asociaciones. Puede indicar el fin de una conexión, situaciones de codependencia o la necesidad de sanar desequilibrios emocionales internos, invitando a reflexionar sobre el dar y recibir y las consecuencias de los vínculos desequilibrados."
       }
     },
     {
-      "name": "Three of Cups",
+      "name": "Tres de Copas",
       "image": "https://i.ibb.co/TMrs1XRr/Cups-3.png",
       "represents": {
-        "planet": "Mercury",
+        "planet": "Mercurio",
         "zodiac": "Cancer",
-        "element": "Water"
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Celebration, friendship, community, joy, togetherness, socializing, merriment, camaraderie",
-        "description": "The Three of Cups celebrates friendship and community, highlighting the joy of shared experiences."
+        "tags": "Celebración, amistad, comunidad, alegría, compañerismo, socialización, diversión, camaradería",
+        "description": "El Tres de Copas celebra la amistad y la comunidad, destacando la alegría de las experiencias compartidas. Indica un momento para disfrutar, recibir buenas noticias, fortalecer lazos afectivos y trabajar en equipo. Invita a disfrutar de los momentos fuera de tiempo y a valorar la conexión con los demás. Representa la abundancia y la colaboración creativa."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Overindulgence, isolation, cliques, exclusion, imbalance, fragmentation, excess, detachment",
-        "description": "The Three of Cups can indicate overindulgence or a feeling of exclusion within a social group."
+        "tags": "Excesos, aislamiento, grupos cerrados, exclusión, desequilibrio, fragmentación, exceso, desapego",
+        "description": "El Tres de Copas puede indicar exceso o sensación de exclusión dentro de un grupo social. Desequilibrio social, chismes, falta de apoyo de amigos o exceso de celebración que deriva en problemas. Sugiere un \"no\" o retraso en metas, señalando la necesidad de resolver conflictos, gestionar la soledad, o revisar la calidad de las relaciones cercanas."
       }
     },
     {
-      "name": "Four of Cups",
+      "name": "Cuatro de Copas",
       "image": "https://i.ibb.co/20CmFC7z/Cups-4.png",
       "represents": {
-        "planet": "Moon",
+        "planet": "Luna",
         "zodiac": "Cancer",
-        "element": "Water"
+        "element": "Agua"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Contemplation, apathy, reevaluation, introspection, disinterest, reflection, reconsideration, withdrawal",
-        "description": "The Four of Cups invites introspection and reevaluation of emotional needs, urging you to consider what truly matters."
+        "tags": "Contemplación, apatía, reevaluación, introspección, desinterés, reflexión, reconsideración, retiro",
+        "description": "El Cuatro de Copas invita a la introspección y a reevaluar las necesidades emocionales, instándote a considerar lo que realmente importa. Representa principalmente apatía, desinterés, estancamiento emocional y un enfoque excesivo en la insatisfacción interna. A menudo simboliza a alguien ignorando nuevas oportunidades por estar sumido en la reflexión o aburrimiento. Invita a superar la pasividad, valorar lo que se tiene y abrirse a nuevas posibilidades."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Receptiveness, renewed interest, opportunity, engagement, openness, curiosity, revival, acceptance",
-        "description": "The Four of Cups suggests a newfound openness to emotional opportunities and a release from apathy."
+        "tags": "Receptividad, interés renovado, oportunidad, compromiso, apertura, curiosidad, renacimiento, aceptación",
+        "description": "El Cuatro de Copas sugiere una nueva apertura hacia oportunidades emocionales y una liberación de la apatía, el aburrimiento y el estancamiento emocional. Indica un despertar proactivo, la superación del pesimismo y la apertura a nuevas oportunidades o la valoración de lo ya existente. Es una señal para salir de uno mismo y reconectar con el entorno dejando de rechazar las oportunidades y a despertar del desinterés emocional llamando a la acción y a valorar la vida."
       }
     },
     {
-      "name": "Five of Cups",
+      "name": "Cinco de Copas",
       "image": "https://i.ibb.co/fYxxVX5G/Cups-5.png",
       "represents": {
-        "planet": "Mars",
-        "zodiac": "Scorpio",
-        "element": "Water"
+        "planet": "Marte",
+        "zodiac": "Escorpio",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Loss, regret, disappointment, sorrow, mourning, bereavement, despair, grief",
-        "description": "The Five of Cups reflects on loss and regret, urging you to acknowledge sorrow while looking for what remains."
+        "tags": "Pérdida, arrepentimiento, decepción, dolor, duelo, luto, desesperación, tristeza, melancolia",
+        "description": "El Cinco de Copas refleja la pérdida y el arrepentimiento, instándote a reconocer el dolor mientras buscas lo que queda. Representa un enfoque excesivo en lo negativo o en el pasado, ignorando las oportunidades positivas que aún quedan disponibles. Es una invitación a procesar el dolor, pero también a cambiar la perspectiva para sanar y superar las emociones negativas para evitar quedarse estancado."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Acceptance, recovery, moving on, healing, renewal, progress, adjustment, liberation",
-        "description": "The Five of Cups signals a turning point toward acceptance and the ability to move forward after loss."
+        "tags": "Aceptación, recuperación, seguir adelante, sanación, renovación, progreso, ajuste, liberación",
+        "description": "El Cinco de Copas señala un punto de inflexión hacia la aceptación y la capacidad de avanzar tras una pérdida. Indica el fin de un periodo de duelo o arrepentimiento, permitiendo dejar atrás las pérdidas para enfocarse en nuevas oportunidades y la sanación personal. Es un mensaje de esperanza y optimismo para dejar de lamentarse y valorar lo que aún queda indicando que el \"vaso sigue medio lleno\"."
       }
     },
     {
-      "name": "Six of Cups",
+      "name": "Seis de Copas",
       "image": "https://i.ibb.co/5W61k3Bb/Cups-6.png",
       "represents": {
-        "planet": "Sun",
-        "zodiac": "Scorpio",
-        "element": "Water"
+        "planet": "Sol",
+        "zodiac": "Escorpio",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Memories, nostalgia, childhood, reminiscence, innocence, sentimentality, joy, reflection",
-        "description": "The Six of Cups evokes nostalgic memories and a longing for the innocence of childhood, suggesting healing through remembrance."
+        "tags": "Recuerdos, nostalgia, infancia, remembranza, inocencia, sentimentalismo, alegría, reflexión",
+        "description": "El Seis de Copas evoca recuerdos nostálgicos y un anhelo por la inocencia de la infancia, sugiriendo sanación a través de la remembranza. Representa un reencuentro con personas o situaciones de un tiempo pasado más sencillo, trayendo recuerdos entrañables y una sensación de comodidad. Te invita a sanar tu niño interior y encontrar, en la calidez de los recuerdos, la fuerza para crear un presente armonioso."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Stuck in the past, unrealistic nostalgia, regret, fixation, longing, impediment, melancholy, reminiscence",
-        "description": "The Six of Cups warns against clinging too tightly to the past, which can hinder personal growth."
+        "tags": "Atrapado en el pasado, nostalgia irrealista, arrepentimiento, fijación, anhelo, impedimento, melancolía, remembranza",
+        "description": "El Seis de Copas advierte contra aferrarse demasiado al pasado, lo que puede obstaculizar el crecimiento personal. Señala la necesidad de soltar el pasado, superar la nostalgia y madurar emocionalmente. Indica dejar atrás la infancia o viejos recuerdos para enfocarse en el futuro, salir de una zona de confort o madurar financieramente invitándote a avanzar hacia el presente y el futuro."
       }
     },
     {
-      "name": "Seven of Cups",
+      "name": "Siete de Copas",
       "image": "https://i.ibb.co/wNdhvjZM/Cups-7.png",
       "represents": {
         "planet": "Venus",
-        "zodiac": "Scorpio",
-        "element": "Water"
+        "zodiac": "Escorpio",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Opportunities, choices, illusion, fantasy, ambiguity, possibility, uncertainty, daydreams",
-        "description": "The Seven of Cups presents a variety of choices and possibilities, inviting you to discern between illusion and reality."
+        "tags": "Oportunidades, elecciones, ilusión, fantasía, ambigüedad, posibilidad, incertidumbre, ensoñaciones, tentacion",
+        "description": "El Siete de Copas presenta una variedad de elecciones y posibilidades, invitándote a discernir entre ilusión y realidad. Indica un momento de reflexión donde es crucial aterrizar los sueños en la realidad y el cuidado ante una multitud de elecciones. Llama a afinar la puntería para tomar una decision adecuada. Todas las opciones son tentadoras pero pueden ser una ilusión, delirios o nocivas para ti."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Indecision, overwhelm, disillusionment, confusion, paralysis, disappointment, muddle, frustration",
-        "description": "The Seven of Cups cautions against confusion and the inability to make clear choices."
+        "tags": "Indecisión, agobio, desilusión, confusión, parálisis, decepción, confusión, frustración",
+        "description": "El Siete de Copas advierte sobre la confusión y la incapacidad de tomar decisiones claras. Sugiere un movimiento hacia la claridad, el fin de las fantasías poco realistas, la toma de decisiones prácticas y el despertar de un estado de confusión. Es una invitación a despertar, madurar las expectativas y actuar sobre lo tangible. Tambien asociado al ocultamiento de verdades sobre uno mismo."
       }
     },
     {
-      "name": "Eight of Cups",
+      "name": "Ocho de Copas",
       "image": "https://i.ibb.co/gZRdt1dX/Cups-8.png",
       "represents": {
-        "planet": "Saturn",
-        "zodiac": "Pisces",
-        "element": "Water"
+        "planet": "Saturno",
+        "zodiac": "Piscis",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Abandonment, withdrawal, moving on, departure, letting go, transition, release, renunciation",
-        "description": "The Eight of Cups signifies a voluntary departure from a situation that no longer serves you, urging emotional growth."
+        "tags": "Abandono, retiro, seguir adelante, partida, dejar ir, transición, liberación, renuncia",
+        "description": "El Ocho de Copas significa una partida voluntaria de una situación que ya no te sirve, instando al crecimiento emocional. Indica una despedida valiente, alejarse de lo conocido, y un cambio necesario hacia el crecimiento personal, a menudo dejando atrás algo que se construyó con esfuerzo pero que ya no llena. Invita a una pausa para evaluar qué aspectos de la vida ya no están funcionando."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Fear of change, stagnation, indecision, hesitation, inertia, uncertainty, blockage, resistance",
-        "description": "The Eight of Cups warns that an unwillingness to let go may lead to stagnation and missed opportunities."
+        "tags": "Miedo al cambio, estancamiento, indecisión, vacilación, inercia, incertidumbre, bloqueo, resistencia",
+        "description": "El Ocho de Copas advierte que la renuencia a dejar ir conduce al estancamiento y a oportunidades perdidas. Simboliza el miedo a abandonar una situación insatisfactoria, la dificultad para soltar lo conocido y una falta de valentía para avanzar. Representa aferrarse a una falsa comodidad por temor a la incertidumbre o por inmadurez emocional. Es un llamado a reconocer el autoengaño, aceptar las propias limitaciones y soltar aquello que ya no sirve para crecer."
       }
     },
     {
-      "name": "Nine of Cups",
+      "name": "Nueve de Copas",
       "image": "https://i.ibb.co/Z69rBmx6/Cups-9.png",
       "represents": {
         "planet": "Jupiter",
-        "zodiac": "Pisces",
-        "element": "Water"
+        "zodiac": "Piscis",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Contentment, satisfaction, gratitude, fulfillment, pleasure, joy, happiness, serenity",
-        "description": "The Nine of Cups is known as the wish card—it brings satisfaction and fulfillment, celebrating emotional contentment."
+        "tags": "Satisfacción, complacencia, gratitud, plenitud, placer, alegría, felicidad, serenidad",
+        "description": "El Nueve de Copas es conocido como la carta de los deseo cumplidos: trae satisfacción y plenitud, celebrando la satisfacción emocional y reconociendo el esfuerzo realizado. Es una señal positiva de que las cosas van bien y que puedes sentirte afortunado. Es un momento para disfrutar de tus logros y sentirte satisfecho con tu situación actual."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Complacency, greed, dissatisfaction, excess, overindulgence, unfulfillment, envy, discontent",
-        "description": "The Nine of Cups may signal that superficial fulfillment masks deeper dissatisfaction or greed."
+        "tags": "Complacencia, codicia, insatisfacción, exceso, sobreindulgencia, falta de plenitud, envidia, descontento",
+        "description": "El Nueve de Copas puede señalar que la satisfacción superficial oculta una insatisfacción más profunda o codicia. Indica una desconexión entre lo que se esperaba obtener (éxito, felicidad, amor) y la realidad actual. Pide una revisión honesta de lo que realmente se necesita para ser feliz en lugar de aferrarse a apariencias o deseos superficiales."
       }
     },
     {
-      "name": "Ten of Cups",
+      "name": "Diez de Copas",
       "image": "https://i.ibb.co/hxz3PftK/Cups-10.png",
       "represents": {
-        "planet": "Mars",
-        "zodiac": "Pisces",
-        "element": "Water"
+        "planet": "Marte",
+        "zodiac": "Piscis",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Happiness, fulfillment, family, bliss, unity, joy, contentment, harmony",
-        "description": "The Ten of Cups represents ultimate happiness and fulfillment in relationships and home life."
+        "tags": "Felicidad, plenitud, familia, dicha, unidad, alegría, satisfacción, armonía",
+        "description": "El Diez de Copas representa la felicidad y plenitud máxima en las relaciones y la vida familiar. Representa un \"sí\" rotundo en el amor, indicando el logro de un idílico \"final de cuento de hadas\", la estabilidad doméstica y la satisfacción profunda de haber encontrado a tu alma gemela o tener una familia unida."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Broken relationships, unmet expectations, disconnection, discord, disillusionment, disappointment, estrangement, fragmentation",
-        "description": "The Ten of Cups may signal disharmony within the family or unmet emotional expectations."
+        "tags": "Relaciones rotas, expectativas no cumplidas, desconexión, discordia, desilusión, decepción, distanciamiento, fragmentación",
+        "description": "El Diez de Copas puede señalar desarmonía dentro de la familia o expectativas emocionales no cumplidas. Simboliza desarmonía familiar, conflictos emocionales, desconexión con la pareja, insatisfacción profunda o metas románticas que no se cumplen. Indica que la conexión familiar o de pareja se ha distorsionado, pudiendo reflejar una fachada de felicidad que oculta problemas reales, separación o falta de apoyo mutuo."
       }
     },
     {
-      "name": "Page of Cups",
+      "name": "Sota de Copas",
       "image": "https://i.ibb.co/8L72Kh02/Page-of-Cups.png",
       "represents": {
         "planet": "",
-        "zodiac": "Libra, Sagittarius",
-        "element": "Water"
+        "zodiac": "Libra, Sagitario",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Curiosity, creativity, beginnings, inspiration, openness, playfulness, exploration, sensitivity",
-        "description": "The Page of Cups invites you to explore new creative ideas and emotional experiences with curiosity."
+        "tags": "Curiosidad, creatividad, comienzos, inspiración, apertura, juego, exploración, sensibilidad",
+        "description": "La Sota de Copas te invita a explorar nuevas ideas creativas y experiencias emocionales con curiosidad. Representa la creatividad, la intuición, la sensibilidad emocional y la llegada de nuevas noticias o sentimientos, a menudo relacionados con el amor, la amistad o una sorpresa agradable."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Emotional immaturity, naivety, insensitivity, inexperience, vulnerability, impulsiveness, inconsistency, fragility",
-        "description": "The Page of Cups warns of an immature or overly naive approach to emotional matters."
+        "tags": "Inmadurez emocional, ingenuidad, insensibilidad, inexperiencia, vulnerabilidad, impulsividad, inconsistencia, fragilidad",
+        "description": "La Sota de Copas advierte sobre un enfoque inmaduro o excesivamente ingenuo hacia asuntos emocionales. Simboliza inmadurez emocional, bloqueo creativo, noticias decepcionantes o una excesiva sensibilidad. Indica la necesidad de madurar internamente, gestionar mejor los sentimientos y enfrentar bloqueos artísticos o personales. Invita a gestionar tus emociones con compasión y dejar de lado la autocrítica excesiva."
       }
     },
     {
-      "name": "Knight of Cups",
+      "name": "Caballero de Copas",
       "image": "https://i.ibb.co/nNCs88Tm/Knight-of-Cups.png",
       "represents": {
         "planet": "",
-        "zodiac": "Pisces, Aquarius",
-        "element": "Water"
+        "zodiac": "Piscis, Acuario",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Romance, charm, imagination, passion, allure, dreaminess, sensitivity, charisma",
-        "description": "The Knight of Cups is a passionate and charismatic figure, urging you to follow your heart and creative impulses."
+        "tags": "Romance, encanto, imaginación, pasión, atractivo, ensueño, sensibilidad, carisma",
+        "description": "El Caballero de Copas es una figura apasionada y carismática, instándote a seguir tu corazón y tus impulsos creativos. Simboliza la búsqueda de los deseos del corazón, invitando a seguir la intuición y actuar con amabilidad, aceptando tus emociones y seguir tus pasiones, pero manteniéndote consciente de la realidad. Indica propuestas, noticias amorosas o creativas y una energía caballeresca"
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Unrealistic idealism, moodiness, disappointment, volatility, impracticality, instability, detachment, inconsistency",
-        "description": "The Knight of Cups suggests that overidealization or emotional instability might be clouding your judgment."
+        "tags": "Idealismo irrealista, mal humor, decepción, volatilidad, impracticidad, inestabilidad, desapego, inconsistencia",
+        "description": "El Caballero de Copas sugiere que la sobreidealización o la inestabilidad emocional podrían nublar tu juicio. Simboliza inmadurez emocional, desilusión amorosa, celos o bloqueos creativos. Indica emociones desbordadas o reprimidas, sugiriendo la necesidad de abordar la falta de comunicación o falsas expectativas en relaciones. Es un llamado a la madurez emocional, a ser honesto con uno mismo sobre los sentimientos y a evitar las fantasías románticas."
       }
     },
     {
-      "name": "Queen of Cups",
+      "name": "Reina de Copas",
       "image": "https://i.ibb.co/397gvvhL/Queen-of-Cups.png",
       "represents": {
         "planet": "",
         "zodiac": "Cancer, Gemini",
-        "element": "Water"
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Compassion, calm, comfort, nurturing, empathy, understanding, warmth, sensitivity",
-        "description": "The Queen of Cups embodies empathy and emotional understanding, offering comfort and nurturing energy."
+        "tags": "Compasión, calma, consuelo, cuidado, empatía, comprensión, calidez, sensibilidad, compasion",
+        "description": "La Reina de Copas encarna la empatía, madurez emocional y comprensión, ofreciendo consuelo mientras nutre y cuida a los demás. Indica equilibrio, creatividad y un sí rotundo a la comprensión emocional. Invita a confiar en la propia voz interior y a abordar los desafíos con empatía en lugar de dureza."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Over-sensitivity, emotional manipulation, instability, moodiness, dependency, volatility, imbalance, inconsistency",
-        "description": "The Queen of Cups may indicate a tendency toward emotional manipulation or excessive sensitivity."
+        "tags": "Hipersensibilidad, manipulación emocional, inestabilidad, mal humor, dependencia, volatilidad, desequilibrio, inconsistencia",
+        "description": "La Reina de Copas señala una desconexión emocional, inestabilidad o desbordamiento de los sentimientos. Representa a menudo la necesidad de cuidar de uno mismo tras dar demasiado, o un comportamiento codependiente y manipulador. Es un llamado a equilibrar la mente y el corazón, y a dejar de reprimir las emociones. Pide mirar hacia adentro, establecer límites saludables y recuperar la propia estabilidad emocional."
       }
     },
     {
-      "name": "King of Cups",
+      "name": "Rey de Copas",
       "image": "https://i.ibb.co/4nGbhrWF/King-of-Cups.png",
       "represents": {
         "planet": "",
-        "zodiac": "Scorpio, Libra",
-        "element": "Water"
+        "zodiac": "Escorpio, Libra",
+        "element": "Agua"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Emotional balance, control, generosity, wisdom, compassion, diplomacy, stability, support",
-        "description": "The King of Cups rules with compassion and wisdom, balancing emotion with reason and offering generosity."
+        "tags": "Equilibrio emocional, control, generosidad, sabiduría, compasión, diplomacia, estabilidad, apoyo",
+        "description": "El Rey de Copas gobierna con compasión y sabiduría, equilibrando la emoción con la razón. Simboliza a una figura autoritaria que gestiona sus sentimientos con control y calma, actuando con el corazón pero con lógica. Indica generosidad, consejería, estabilidad espiritual y la necesidad de equilibrar el mundo interior con el exterior."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Coldness, moodiness, manipulation, detachment, inconsistency, rigidity, insensitivity, imbalance",
-        "description": "The King of Cups might suggest difficulty in managing emotions, leading to moodiness or manipulation."
+        "tags": "Frialdad, mal humor, manipulación, desapego, inconsistencia, rigidez, insensibilidad, desequilibrio",
+        "description": "El Rey de Copas simboliza inestabilidad emocional, manipulación, volatilidad y mal humor, representando un desequilibrio en la madurez emocional. Señala una incapacidad para manejar sentimientos, lo que puede resultar en egoísmo, frialdad o la pérdida del control de la compasión y sabiduría habituales. Advierte sobre la necesidad de trabajar en la inteligencia emocional, el autocontrol y evitar el egoísmo para no perjudicar las relaciones personales."
       }
     },
     {
-      "name": "Ace of Wands",
+      "name": "As de Bastos",
       "image": "https://i.ibb.co/xtHqdDHn/Wands-1.png",
       "represents": {
         "planet": "",
         "zodiac": "",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Inspiration, growth, potential, spark, energy, initiation, creativity, ambition",
-        "description": "The Ace of Wands heralds the spark of inspiration and the start of a creative or energetic new venture."
+        "tags": "Inspiración, crecimiento, potencial, chispa, energía, inicio, creatividad, ambición, motivacion",
+        "description": "El As de Bastos anuncia la chispa de inspiración y el inicio de una nueva empresa creativa o energética. Simboliza la chispa para iniciar proyectos, tomar control de tu destino y actuar con entusiasmo. Es un llamado a la acción para aprovechar una energía intensa y materializar metas."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Lack of motivation, delays, stagnation, procrastination, inactivity, blockage, inertia, frustration",
-        "description": "The Ace of Wands warns of a blockage in creative energy or delays in launching new projects."
+        "tags": "Falta de motivación, retrasos, estancamiento, procrastinación, inactividad, bloqueo, inercia, frustración, energia desperdiciada",
+        "description": "El As de Bastos advierte sobre un bloqueo en la energía creativa y retrasos en nuevos proyectos.  Indica un periodo de estancamiento, desmotivación o la necesidad de pausar planes debido a obstáculos, sugiriendo que la energía se siente frenada o ineficaz. Es un llamado a la paciencia y a la introspección para superar un momento de baja energía creativa."
       }
     },
     {
-      "name": "Two of Wands",
+      "name": "Dos de Bastos",
       "image": "https://i.ibb.co/DHwXCDdf/Wands-2.png",
       "represents": {
-        "planet": "Mars",
+        "planet": "Marte",
         "zodiac": "Aries",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Planning, decisions, progress, strategy, foresight, ambition, determination, vision",
-        "description": "The Two of Wands urges you to plan carefully and consider your options as you prepare for future expansion."
+        "tags": "Planificación, decisiones, progreso, estrategia, previsión, ambición, determinación, visión",
+        "description": "El Dos de Bastos te insta a planificar cuidadosamente y considerar tus opciones mientras te preparas para la expansión futura.  Representa un momento de transición donde, tras alcanzar cierta estabilidad, te preparas para salir de tu zona de confort y expandir tus horizontes con valentía. Es un llamado a moverse de la contemplación a la ejecución."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Indecision, fear of change, stagnation, hesitation, uncertainty, delay, inaction, doubt",
-        "description": "The Two of Wands suggests a difficulty in making decisions or moving forward due to fear or uncertainty."
+        "tags": "Indecisión, miedo al cambio, estancamiento, vacilación, incertidumbre, retraso, inacción, duda",
+        "description": "El Dos de Bastos señala dificultad para tomar decisiones y avanzar debido al miedo, la incertidumbre o la falta de planificación. Representa inacción, dudas excesivas y resistencia a salir de la zona de confort, donde el exceso de confianza o la mala preparación generan inestabilidad. Pide que dejes de \"soñar\" y empieces a ejecutar con una planificación más sólida."
       }
     },
     {
-      "name": "Three of Wands",
+      "name": "Tres de Bastos",
       "image": "https://i.ibb.co/JFS2TsdF/Wands-3.png",
       "represents": {
-        "planet": "Sun",
+        "planet": "Sol",
         "zodiac": "Aries",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Expansion, foresight, opportunities, growth, vision, progress, planning, ambition",
-        "description": "The Three of Wands symbolizes the early stages of growth and expansion, encouraging you to look ahead and seize opportunities."
+        "tags": "Expansión, previsión, oportunidades, crecimiento, visión, progreso, planificación, ambición",
+        "description": "El Tres de Bastos simboliza las primeras etapas de crecimiento y expansión, animándote a mirar hacia adelante y aprovechar las oportunidades. Indicando que tus esfuerzos iniciales están dando frutos y que el éxito está en el horizonte. Representa tener confianza, mirar hacia el futuro con optimismo y la necesidad de explorar nuevas oportunidades o aventuras."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Delay, missed opportunity, lack of foresight, obstruction, postponement, setback, oversight, hesitation",
-        "description": "The Three of Wands warns of delays or missed opportunities due to a lack of planning or vision."
+        "tags": "Retraso, oportunidad perdida, falta de previsión, obstáculo, aplazamiento, retroceso, descuido, vacilación",
+        "description": "El Tres de Bastos advierte sobre retrasos o oportunidades perdidas debido a la falta de planificación o visión. Simboliza un periodo de estancamiento, frustración y falta de progreso en planes a largo plazo. Es un llamado a la reevaluación de objetivos, paciencia y introspección, mirando hacia adentro, reevaluar tus planes y no forzar situaciones si no es el momento adecuado."
       }
     },
     {
-      "name": "Four of Wands",
+      "name": "Cuatro de Bastos",
       "image": "https://i.ibb.co/MDGX0jMD/Wands-4.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Aries",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Celebration, stability, harmony, joy, unity, success, festivity, accomplishment",
-        "description": "The Four of Wands is a card of celebration and stability, marking milestones and the joy of shared success."
+        "tags": "Celebración, estabilidad, armonía, alegría, unidad, éxito, festividad, logro",
+        "description": "El Cuatro de Bastos es una carta de celebración y estabilidad, marcando hitos y la alegría del éxito compartido. Es una carta muy positiva que augura momentos de alegría, celebraciones familiares, compromiso o mejoras en el hogar. Indica un periodo de paz y la culminación exitosa de un proyecto. Es un momento para compartir con seres queridos y celebrar tus logros."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Instability, delayed celebrations, tension, discord, imbalance, conflict, unease, postponement",
-        "description": "The Four of Wands may indicate that celebrations are delayed or that there is tension disrupting harmony."
+        "tags": "Inestabilidad, celebraciones retrasadas, tensión, discordia, desequilibrio, conflicto, incomodidad, aplazamiento",
+        "description": "El Cuatro de Bastos indica celebraciones retrasadas, tensión y falta de armonía en el hogar o en los vínculos cercanos. Señala inestabilidad, conflictos personales, falta de apoyo o problemas de comunicación que impiden disfrutar del éxito o la alegría esperada. La carta aconseja revisar los cimientos de proyectos o relaciones, mirar hacia dentro y valorar lo que se tiene, incluso cuando la situación se percibe inestable o solitaria."
       }
     },
     {
-      "name": "Five of Wands",
+      "name": "Cinco de Bastos",
       "image": "https://i.ibb.co/RGKxP0bR/Wands-5.png",
       "represents": {
-        "planet": "Saturn",
+        "planet": "Saturno",
         "zodiac": "Leo",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Competition, conflict, rivalry, challenge, struggle, contest, discord, contention",
-        "description": "The Five of Wands highlights healthy competition and minor conflicts that spark growth through challenge."
+        "tags": "Competencia, conflicto, rivalidad, desafío, lucha, contienda, discordia, enfrentamiento",
+        "description": "El Cinco de Bastos destaca la competencia sana y los conflictos menores que fomentan el crecimiento a través del desafío. Esta carta de energía de fuego sugiere caos, desafíos y la necesidad de defender tu posición o ideas. A menudo representa tensiones en el entorno laboral o familiar. Invita a no tomarte los conflictos personales demasiado a pecho, sugiriendo que la competencia puede ser una forma de crecer."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Discord, lack of cooperation, chaos, disorder, disunity, turbulence, fragmentation, anarchy",
-        "description": "The Five of Wands suggests that conflict has escalated into discord or chaos, hindering progress."
+        "tags": "Discordia, falta de cooperación, caos, desorden, desunión, turbulencia, fragmentación, anarquía",
+        "description": "El Cinco de Bastos sugiere que el conflicto ha escalado hacia la discordia o el caos, obstaculizando el progreso. Señala el deseo de evitar enfrentamientos, dejar atrás luchas innecesarias o retirarse estratégicamente para recuperar la paz interior. También puede reflejar tensiones internas no resueltas, invitando a la calma y a gestionar los desafíos de forma más constructiva en lugar de seguir alimentando el conflicto."
       }
     },
     {
-      "name": "Six of Wands",
+      "name": "Seis de Bastos",
       "image": "https://i.ibb.co/vvwm51zJ/Wands-6.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Leo",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Victory, success, recognition, triumph, achievement, celebration, honor, acclaim",
-        "description": "The Six of Wands is a card of triumph, celebrating success and public recognition for your achievements."
+        "tags": "Victoria, éxito, reconocimiento, triunfo, logro, celebración, honor, aclamación",
+        "description": "El Seis de Bastos es una carta de triunfo, celebrando el éxito y el reconocimiento público por tus logros. Indica éxito, confianza en uno mismo y el aplauso de los demás por logros alcanzados. Es una carta positiva de liderazgo y superación, sugiriendo que tus metas están a tu alcance."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Ego, failure, lack of recognition, defeat, oversight, neglect, disappointment, hubris",
-        "description": "The Six of Wands may indicate that success is elusive or that pride and ego are getting in the way."
+        "tags": "Ego, fracaso, falta de reconocimiento, derrota, descuido, negligencia, decepción, soberbia",
+        "description": "El Seis de Bastos indica que el éxito se vuelve esquivo cuando el orgullo, el ego o la necesidad de aprobación externa interfieren en el camino. Señala falta de reconocimiento, inseguridad y una caída en la confianza personal, así como posibles fracasos o retrasos tras un gran esfuerzo. La carta invita a soltar la obsesión por el juicio ajeno, buscar validación interna y comprender que el fracaso también forma parte del aprendizaje."
       }
     },
     {
-      "name": "Seven of Wands",
+      "name": "Siete de Bastos",
       "image": "https://i.ibb.co/MxCQYB9T/Wands-7.png",
       "represents": {
-        "planet": "Mars",
+        "planet": "Marte",
         "zodiac": "Leo",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Perseverance, defense, resilience, bravery, determination, persistence, courage, fortitude",
-        "description": "The Seven of Wands calls on you to stand your ground and defend your position against opposition."
+        "tags": "Perseverancia, defensa, resiliencia, valentía, determinación, persistencia, coraje, fortaleza",
+        "description": "El Siete de Bastos te insta a mantener tu posición y defender tu lugar frente a la oposición. Indica la necesidad de mantenerse firme en tus convicciones, proteger tu posición y luchar contra desafíos, incluso si parece una batalla difícil o estás en desventaja. Te anima a no callar y a mantenerte firme en tus límites, confiando en tu poder personal."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Insecurity, capitulation, vulnerability, yielding, weakness, submission, doubt, fragility",
-        "description": "The Seven of Wands warns that you may be giving in too easily or feeling overwhelmed by opposition."
+        "tags": "Inseguridad, capitulación, vulnerabilidad, rendición, debilidad, sumisión, duda, fragilidad",
+        "description": "El Siete de Bastos advierte que podrías ceder demasiado fácilmente o sentirte abrumado por la oposición. indica agotamiento, abrumamiento y pérdida de confianza, sugiriendo que te sientes incapaz de defender tu postura ante presiones externas. Señala una rendición, falta de límites firmes o terquedad en mantener una situación insostenible. Es una llamada a reevaluar prioridades, descansar y dejar de luchar batallas perdidas."
       }
     },
     {
-      "name": "Eight of Wands",
+      "name": "Ocho de Bastos",
       "image": "https://i.ibb.co/HL3q1Srb/Wands-8.png",
       "represents": {
-        "planet": "Mercury",
-        "zodiac": "Sagittarius",
-        "element": "Fire"
+        "planet": "Mercurio",
+        "zodiac": "Sagitario",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Speed, movement, action, momentum, rapidity, progress, acceleration, dynamism",
-        "description": "The Eight of Wands signifies rapid movement and swift progress, with events unfolding quickly."
+        "tags": "Velocidad, movimiento, acción, impulso, rapidez, progreso, aceleración, dinamismo, noticias inesperadas",
+        "description": "El Ocho de Bastos significa movimiento rápido y progreso ágil, con eventos que se desarrollan rápidamente indicando que las cosas avanzan rápidamente y los obstáculos se disipan. Es una señal para \"golpear mientras el hierro está caliente\", sugiriendo que la energía se mueve con fuerza, marcando el fin de retrasos y el éxito inminente."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Delays, frustration, stagnation, hold-up, interruption, blockage, sluggishness, impasse",
-        "description": "The Eight of Wands indicates that anticipated progress may be delayed, leading to frustration."
+        "tags": "Retrasos, frustración, estancamiento, detención, interrupción, bloqueo, lentitud, estancamiento, falta de comunicación",
+        "description": "El Ocho de Bastos indica que el progreso esperado puede retrasarse, generando frustración. Representa obstáculos que frenan el progreso, la necesidad de revisar planes y una energía desaprovechada o desorganizada. Es una señal para reducir la velocidad y evitar decisiones precipitadas."
       }
     },
     {
-      "name": "Nine of Wands",
+      "name": "Nueve de Bastos",
       "image": "https://i.ibb.co/vFc6ZK6/Wands-9.png",
       "represents": {
-        "planet": "Moon",
-        "zodiac": "Sagittarius",
-        "element": "Fire"
+        "planet": "Luna",
+        "zodiac": "Sagitario",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Courage, persistence, test of faith, endurance, resilience, determination, bravery, perseverance",
-        "description": "The Nine of Wands stands for resilience and the courage to keep fighting, even when faced with challenges."
+        "tags": "Coraje, persistencia, prueba de fe, resistencia, resiliencia, determinación, valentía, perseverancia",
+        "description": "El Nueve de Bastos representa la resiliencia y el coraje para seguir luchando, incluso frente a desafíos. Aunque indica agotamiento físico o mental, de alguien que sigue firme, en guardia y protegiendo lo logrado. Es una carta de \"no rendirse\" y resistencia final, pero a hacerlo con prudencia, cuidando tu energía y reconociendo el gran esfuerzo realizado."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Exhaustion, defensiveness, burnout, fatigue, depletion, vulnerability, collapse, weariness",
-        "description": "The Nine of Wands warns that you may be overly defensive or exhausted from constant battles."
+        "tags": "Agotamiento, defensividad, desgaste, fatiga, depleción, vulnerabilidad, colapso, cansancio",
+        "description": "El Nueve de Bastos advierte que podrías estar demasiado a la defensiva o exhausto por batallas constantes. Sugiere que te sientes abrumado por responsabilidades o batallas pasadas, lo que lleva a barreras defensivas excesivas, miedo al fracaso, evitar compromisos o falta de energía para continuar. Es un llamado a pedir ayuda, descansar y soltar cargas autoimpuestas."
       }
     },
     {
-      "name": "Ten of Wands",
+      "name": "Diez de Bastos",
       "image": "https://i.ibb.co/JW65cjrm/Wands-10.png",
       "represents": {
-        "planet": "Saturn",
-        "zodiac": "Sagittarius",
-        "element": "Fire"
+        "planet": "Saturno",
+        "zodiac": "Sagitario",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Burden, responsibility, hard work, load, pressure, duty, toil, obligation",
-        "description": "The Ten of Wands indicates that you are carrying a heavy load or many responsibilities that require hard work."
+        "tags": "Carga, responsabilidad, trabajo duro, peso, presión, deber, esfuerzo, obligación",
+        "description": "El Diez de Bastos indica que llevas una carga pesada, te acercas al límite de tus fuerzas o muchas responsabilidades que requieren trabajo arduo. Señala la necesidad urgente de delegar, establecer límites y priorizar tu bienestar para evitar el desgaste total antes de alcanzar tus metas. Aunque el éxito está cerca, el esfuerzo actual es insostenible."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Relief, delegation, release, easing, unburdening, relaxation, letting go, freedom",
-        "description": "The Ten of Wands offers the possibility of releasing burdens by delegating tasks or letting go of excessive responsibility."
+        "tags": "Alivio, delegación, liberación, alivio, descarga, relajación, dejar ir, libertad",
+        "description": "El Diez de Bastos ofrece la posibilidad de liberar cargas delegando tareas o dejando ir responsabilidades excesivas. Indica que estás realmente agobiado por circunstancias innecesarias en tu vida. Observa a tu alrededor y observa qué te molesta y que no te beneficiará, incluso si lo corriges."
       }
     },
     {
-      "name": "Page of Wands",
+      "name": "Sota de Bastos",
       "image": "https://i.ibb.co/VWww2GQY/Page-of-Wands.png",
       "represents": {
         "planet": "",
         "zodiac": "Cancer, Virgo",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Exploration, enthusiasm, discovery, curiosity, initiative, adventure, optimism, innovation",
-        "description": "The Page of Wands embodies youthful enthusiasm and the spirit of exploration, urging you to try new ventures."
+        "tags": "Exploración, entusiasmo, descubrimiento, curiosidad, iniciativa, aventura, optimismo, innovación",
+        "description": "La Sota de Bastos encarna el entusiasmo juvenil y el espíritu de exploración, instándote a probar nuevas empresas. Simboliza una fase de aprendizaje activo, noticias emocionantes y una actitud aventurera ante la vida. Indica la llegada de inspiración o la necesidad de tomar acción con valentía. Es un buen momento para explorar pasiones y emprender acciones con energía renovada."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Lack of direction, impatience, recklessness, aimlessness, impulsiveness, frustration, disorder, confusion",
-        "description": "The Page of Wands warns of impulsiveness or a lack of clear direction in pursuing your goals."
+        "tags": "Falta de dirección, impaciencia, imprudencia, desorientación, impulsividad, frustración, desorden, confusión",
+        "description": "La Sota de Bastos advierte sobre la impulsividad o la falta de dirección clara al perseguir tus metas. Indica falta de inspiración, estancamiento creativo y energía bloqueada, a menudo manifestada como planificación excesiva sin acción concreta. Sugiere noticias decepcionantes, falta de entusiasmo, inmadurez o ideas que no logran desarrollarse, marcando un periodo de retraso y desmotivación en proyectos personales."
       }
     },
     {
-      "name": "Knight of Wands",
+      "name": "Caballero de Bastos",
       "image": "https://i.ibb.co/JjW8dMF5/Knight-of-Wands.png",
       "represents": {
         "planet": "",
-        "zodiac": "Sagittarius, Scorpio",
-        "element": "Fire"
+        "zodiac": "Sagitario, Escorpio",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Energy, passion, adventure, vigor, dynamism, excitement, boldness, spontaneity",
-        "description": "The Knight of Wands charges forward with vibrant energy and a thirst for adventure, inspiring bold action."
+        "tags": "Energía, pasión, aventura, vigor, dinamismo, emoción, audacia, espontaneidad",
+        "description": "El Caballero de Bastos avanza con energía vibrante y sed de aventura, inspirando acciones audaces. A menudo indicando viajes, cambios repentinos de trabajo o residencia. Es un arquetipo de movimiento, aunque a veces actúa sin pensar. es momento de avanzar sin miedo, ser audaz y no temer a los cambios rápidos, equilibrando la pasión con un poco de visión a largo plazo."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Impulsiveness, recklessness, inconsistency, erratic, disorderly, unsteady, unpredictable, volatile",
-        "description": "The Knight of Wands may signal impulsive behavior or a lack of follow-through on your adventurous ideas."
+        "tags": "Impulsividad, imprudencia, inconsistencia, errático, desordenado, inestable, impredecible, volátidad",
+        "description": "El Caballero de Bastos puede señalar comportamiento impulsivo o falta de seguimiento en tus ideas aventureras. Advierte contra la prisa imprudente que lleva al agotamiento, la dispersión de energía, el comportamiento destructivo o la falta de compromiso en proyectos y relaciones. Indica la necesidad de detenerse, controlar los impulsos y planificar con más cautela."
       }
     },
     {
-      "name": "Queen of Wands",
+      "name": "Reina de Bastos",
       "image": "https://i.ibb.co/qLSVWPFp/Queen-of-Wands.png",
       "represents": {
         "planet": "",
-        "zodiac": "Aries, Pisces",
-        "element": "Fire"
+        "zodiac": "Aries, Piscis",
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Courage, confidence, determination, passion, vitality, assertiveness, warmth, ambition",
-        "description": "The Queen of Wands exudes warmth, confidence, and determination, empowering you to pursue your ambitions."
+        "tags": "Coraje, confianza, determinación, pasión, vitalidad, asertividad, calidez, ambición, liderazgo",
+        "description": "La Reina de Bastos irradia calidez, confianza y determinación, empoderándote para perseguir tus ambiciones. Esta carta es una invitación a confiar en tu poder personal, ser auténtico y actuar con pasión."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Arrogance, volatility, stubbornness, overbearing, inconsiderate, inflexible, egotistical, unpredictable",
-        "description": "The Queen of Wands may indicate an overbearing attitude or volatile emotions that hinder progress."
+        "tags": "Arrogancia, volatilidad, terquedad, dominante, inconsiderada, inflexible, egocéntrica, impredecible",
+        "description": "La Reina de Bastos puede indicar una actitud dominante o emociones volátiles que dificultan el progreso. Representa un bloqueo en la autoexpresión, donde la confianza se convierte en arrogancia o celos, sugiriendo la necesidad de reconstruir la autoestima y evitar el control excesivo sobre los demás. Es un llamado a gestionar el poder personal de manera más constructiva, evitando la agresividad y los celos."
       }
     },
     {
-      "name": "King of Wands",
+      "name": "Rey de Bastos",
       "image": "https://i.ibb.co/4gjM1pTb/King-of-Wands.png",
       "represents": {
         "planet": "",
         "zodiac": "Leo, Cancer",
-        "element": "Fire"
+        "element": "Fuego"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Leadership, vision, honor, inspiration, charisma, initiative, drive, command",
-        "description": "The King of Wands represents visionary leadership and the ability to inspire others with his dynamic energy."
+        "tags": "Liderazgo, visión, honor, inspiración, carisma, iniciativa, impulso, mando",
+        "description": "El Rey de Bastos representa liderazgo visionario y la capacidad de inspirar a otros con su energía dinámica. Suele ser un llamado a tomar el control de una situación, asumir la responsabilidad, tener confianza y actuar con audacia para lograr los objetivos."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Impulsiveness, dictatorial, lack of discipline, recklessness, autocratic, disorder, instability, inconsistency",
-        "description": "The King of Wands warns of uncontrolled ambition or dictatorial behavior that undermines true leadership."
+        "tags": "Impulsividad, dictatorial, falta de disciplina, imprudencia, autocrático, desorden, inestabilidad, inconsistencia",
+        "description": "El Rey de Bastos advierte sobre ambición descontrolada o comportamiento dictatorial que socava el verdadero liderazgo. Indica una gestión ineficaz, miedo a asumir el liderazgo o expectativas poco realistas que llevan al agotamiento. Sugiere un revés temporal, donde la pasión se convierte en impulsividad o egoísmo, requiriendo reevaluar la dirección tomada."
       }
     },
     {
-      "name": "Ace of Pentacles",
+      "name": "As de Oros",
       "image": "https://i.ibb.co/XxHf3mWt/Pentacles-1.png",
       "represents": {
         "planet": "",
         "zodiac": "",
-        "element": "Earth"
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Prosperity, opportunity, new venture, abundance, success, growth, potential, stability",
-        "description": "The Ace of Pentacles symbolizes a promising new beginning in the realm of material or financial prosperity."
+        "tags": "Prosperidad, oportunidad, nueva empresa, abundancia, éxito, crecimiento, potencial, estabilidad",
+        "description": "El As de Oros simboliza un comienzo prometedor en el ámbito de la prosperidad material o financiera. Representa éxito financiero, buena fortuna, nuevos proyectos laborales y salud, marcando un comienzo firme y con potencial de crecimiento siendo sumamente positiva que anuncia la manifestación tangible de los deseos y el éxito material."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Missed opportunity, instability, loss, decline, setback, insecurity, failure, deficit",
-        "description": "The Ace of Pentacles warns of lost opportunities or instability in your financial or material world."
+        "tags": "Oportunidad perdida, inestabilidad, pérdida, declive, retroceso, inseguridad, fracaso, déficit",
+        "description": "El As de Oros advierte sobre oportunidades perdidas o inestabilidad en tu mundo financiero o material. Es una llamada a la paciencia y a la revisión de la estrategia actual antes de proceder con nuevos negocios o inversiones"
       }
     },
     {
-      "name": "Two of Pentacles",
+      "name": "Dos de Oros",
       "image": "https://i.ibb.co/wFbZzVN0/Pentacles-2.png",
       "represents": {
         "planet": "Jupiter",
-        "zodiac": "Capricorn",
-        "element": "Earth"
+        "zodiac": "Capricornio",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Balance, adaptability, prioritization, flexibility, juggling, coordination, efficiency, resourcefulness",
-        "description": "The Two of Pentacles shows that you are juggling responsibilities with adaptability and a sense of balance."
+        "tags": "Equilibrio, adaptabilidad, priorización, flexibilidad, malabarismo, coordinación, eficiencia, ingenio",
+        "description": "El Dos de Oros muestra que estás manejando responsabilidades con adaptabilidad y un sentido de equilibrio. Simboliza el malabarismo entre dos situaciones, la necesidad de ser flexible, tomar decisiones y adaptarse a cambios, a menudo indicando un periodo de ajetreo pero con capacidad para mantener la estabilidad. Una invitación a mantener la calma y el control ante las demandas contrapuesta."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Overwhelm, disorganization, imbalance, chaos, mismanagement, disorder, confusion, instability",
-        "description": "The Two of Pentacles indicates struggles with managing multiple demands, leading to imbalance."
+        "tags": "Abrumamiento, desorganización, desequilibrio, caos, mala gestión, desorden, confusión, inestabilidad",
+        "description": "El Dos de Oros indica dificultades para manejar múltiples demandas, lo que lleva a un desequilibrio. Indica que estás intentando abarcar demasiado, sintiéndote abrumado por responsabilidades. Sugiere la necesidad urgente de simplificar, descansar y organizar tus obligaciones, ya que la tensión actual está generando estrés y inestabilidad."
       }
     },
     {
-      "name": "Three of Pentacles",
+      "name": "Tres de Oros",
       "image": "https://i.ibb.co/yBxH4rST/Pentacles-3.png",
       "represents": {
-        "planet": "Mars",
-        "zodiac": "Capricorn",
-        "element": "Earth"
+        "planet": "Marte",
+        "zodiac": "Capricornio",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Teamwork, collaboration, skill, cooperation, craftsmanship, synergy, competence, integration",
-        "description": "The Three of Pentacles celebrates collaboration, craftsmanship, and the successful application of skills in a team setting."
+        "tags": "Trabajo en equipo, colaboración, habilidad, cooperación, artesanía, sinergia, competencia, integración",
+        "description": "El Tres de Oros celebra la colaboración, la artesanía y la aplicación exitosa de habilidades en un entorno de equipo. Indica que la unión de diferentes habilidades y perspectivas es clave para el éxito, sugiriendo un periodo de aprendizaje, reconocimiento profesional y construcción de bases sólidas."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Lack of cooperation, poor planning, disunity, miscommunication, inefficiency, fragmentation, disorganization, setbacks",
-        "description": "The Three of Pentacles may suggest challenges in working with others or ineffective planning."
+        "tags": "Falta de cooperación, mala planificación, desunión, mala comunicación, ineficiencia, fragmentación, desorganización, contratiempo",
+        "description": "El Tres de Oros puede sugerir desafíos al trabajar con otros o una planificación ineficaz. Señala una falta de reconocimiento profesional, mediocridad o inmadurez en el trabajo, con la necesidad de mejorar la comunicación y el trabajo en grupo. Advierte que la discordia y la falta de cooperación están impidiendo la realización exitosa de los objetivos."
       }
     },
     {
-      "name": "Four of Pentacles",
+      "name": "Cuatro de Oros",
       "image": "https://i.ibb.co/hxd4bF2V/Pentacles-4.png",
       "represents": {
-        "planet": "Sun",
-        "zodiac": "Capricorn",
-        "element": "Earth"
+        "planet": "Sol",
+        "zodiac": "Capricorni",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Security, control, possession, stability, conservation, protection, accumulation, discipline",
-        "description": "The Four of Pentacles reflects a strong desire for stability and control over your material world."
+        "tags": "Seguridad, control, posesión, estabilidad, conservación, protección, acumulación, disciplina",
+        "description": "El Cuatro de Oros habla del deseo de seguridad y control material, pero también de una actitud defensiva y del miedo a perder. Representa ahorro y conservación, aunque advierte sobre el estancamiento que nace del apego excesivo. Invita a encontrar equilibrio: ser prudente con los recursos sin que el miedo al cambio o la pérdida impida el progreso."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Greed, insecurity, possessiveness, avarice, selfishness, hoarding, isolation, rigidity",
-        "description": "The Four of Pentacles warns of an excessive focus on material security that can lead to isolation or greed."
+        "tags": "Avaricia, inseguridad, posesividad, codicia, egoísmo, acaparamiento, aislamiento, rigidez",
+        "description": "El Cuatro de Oros advierte sobre un enfoque excesivo en la seguridad material que puede llevar al aislamiento o a la codicia. Indica un momento para dejar ir el miedo a la escasez, arriesgarse y permitir que fluya la energía, superando la tacañería o la necesidad obsesiva de seguridad."
       }
     },
     {
-      "name": "Five of Pentacles",
+      "name": "Cinco de Oros",
       "image": "https://i.ibb.co/TD8G2pXP/Pentacles-5.png",
       "represents": {
-        "planet": "Mercury",
-        "zodiac": "Taurus",
-        "element": "Earth"
+        "planet": "Mercurio",
+        "zodiac": "Tauro",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "No",
-        "tags": "Isolation, insecurity, financial loss, abandonment, hardship, poverty, struggle, deprivation",
-        "description": "The Five of Pentacles often indicates a period of financial or material hardship, leaving you feeling isolated."
+        "tags": "Aislamiento, inseguridad, pérdida financiera, abandono, dificultades, pobreza, lucha, privación",
+        "description": "El Cinco de Oros suele indicar un período de dificultades financieras o materiales, dejándote sentir aislado. A menudo representa momentos de crisis donde se pierde la fe, pero también invita a buscar apoyo, reconocer la propia resiliencia y encontrar la ayuda necesaria para superar la adversidad."
       },
       "reversed": {
         "yesno": "Yes",
-        "tags": "Recovery, improvement, resourcefulness, renewal, rebuilding, resilience, aid, revival",
-        "description": "The Five of Pentacles offers a sign of recovery and the possibility of finding help in difficult times."
+        "tags": "Recuperación, mejora, ingenio, renovación, reconstrucción, resiliencia, ayuda, renacimiento",
+        "description": "El Cinco de Oros ofrece un signo de recuperación y la posibilidad de encontrar ayuda en tiempos difíciles. Indica el fin de un período difícil, marcando el inicio de la recuperación financiera, la sanación física o la superación de sentimientos de aislamiento y carencia. Representa salir del \"frío\" hacia la estabilidad, la redención tras una crisis y la necesidad de pedir apoyo o cambiar la perspectiva derrotista esperanzadora y positiva, indicando que lo peor ya ha pasado."
       }
     },
     {
-      "name": "Six of Pentacles",
+      "name": "Seis de Oros",
       "image": "https://i.ibb.co/gLKkvD7j/Pentacles-6.png",
       "represents": {
-        "planet": "Moon",
-        "zodiac": "Taurus",
-        "element": "Earth"
+        "planet": "Tauro",
+        "zodiac": "Tauro",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Charity, generosity, sharing, kindness, balance, support, giving, compassion",
-        "description": "The Six of Pentacles represents the balance between giving and receiving, highlighting generosity and support."
+        "tags": "Caridad, generosidad, compartir, amabilidad, equilibrio, apoyo, dar, entregar, compasión",
+        "description": "El Seis de Oros simboliza el equilibrio entre dar y recibir, la generosidad y el flujo consciente de la abundancia. Representa ayuda, apoyo y cooperación, pero también revela dinámicas de poder donde alguien administra o distribuye recursos. Invita a reflexionar sobre cómo manejas lo material y emocional: si das desde la equidad, si dependes del apoyo ajeno o si existe un verdadero intercambio justo en tu vida."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Inequality, debt, selfishness, imbalance, disparity, exploitation, shortage, mismanagement",
-        "description": "The Six of Pentacles warns of imbalances in give-and-take, possibly indicating selfishness or financial strain."
+        "tags": "Desigualdad, deuda, egoísmo, desequilibrio, disparidad, explotación, escasez, mala gestión, generosidad tóxica",
+        "description": "El Seis de Oros advierte sobre desequilibrios en el dar y recibir, posiblemente indicando egoísmo o tensión financiera. Indica que la ayuda recibida puede tener condiciones o que estás gastando más de lo que puedes permitirte. Es una llamada a la prudencia financiera y a la independencia, de buscar la independencia financiera y emocional para equilibrar la balanza en tu vida."
       }
     },
     {
-      "name": "Seven of Pentacles",
+      "name": "Siete de Oros",
       "image": "https://i.ibb.co/ymnPxhCG/Pentacles-7.png",
       "represents": {
-        "planet": "Saturn",
-        "zodiac": "Taurus",
-        "element": "Earth"
+        "planet": "Saturno",
+        "zodiac": "Tauro",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Patience, investment, growth, persistence, cultivation, planning, progress, diligence",
-        "description": "The Seven of Pentacles encourages patience and steady investment, suggesting that your efforts will eventually yield rewards."
+        "tags": "Paciencia, inversión, crecimiento, persistencia, cultivo, planificación, progreso, diligencia",
+        "description": "El Siete de Oros fomenta la paciencia y la inversión constante, sugiriendo que tus esfuerzos eventualmente darán frutos. . Indica que has trabajado duro y ahora toca esperar a que los frutos de tu labor maduren. Es un llamado a la pausa, a la planificación y a confiar en que la inversión de tiempo dará sus frutos."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Lack of progress, impatience, discouragement, frustration, stagnation, discontent, hasty, withdrawal",
-        "description": "The Seven of Pentacles may indicate impatience or frustration over slow progress, urging you to reassess your strategies."
+        "tags": "Falta de progreso, impaciencia, desánimo, frustración, estancamiento, descontento, precipitación, retiro",
+        "description": "El Siete de Oros puede indicar impaciencia o frustración por el progreso lento, instándote a reevaluar tus estrategias. Señala la necesidad de reevaluar proyectos, enfrentar la frustración por recompensas tardías y evitar rendirse prematuramente. Puede reflejar proyectos inacabados, desmotivación o la sensación de trabajar demasiado sin obtener el beneficio esperado."
       }
     },
     {
-      "name": "Eight of Pentacles",
+      "name": "Ocho de Oros",
       "image": "https://i.ibb.co/1fnsnLyS/Pentacles-8.png",
       "represents": {
-        "planet": "Sun",
+        "planet": "Sol",
         "zodiac": "Virgo",
-        "element": "Earth"
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Skill development, apprenticeship, diligence, craftsmanship, focus, persistence, learning, refinement",
-        "description": "The Eight of Pentacles represents dedicated work and the mastery of a craft, emphasizing learning and refinement."
+        "tags": "Desarrollo de habilidades, aprendizaje, diligencia, artesanía, enfoque, persistencia, estudio, perfeccionamiento",
+        "description": "El Ocho de Oros representa trabajo dedicado y la maestría de un oficio, enfatizando el aprendizaje y el perfeccionamiento. Indica un periodo de concentración intensa, aprendizaje práctico y atención al detalle para lograr el éxito."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Lack of focus, mediocrity, burnout, distraction, underachievement, fatigue, stagnation, sloth",
-        "description": "The Eight of Pentacles warns of losing focus or burning out due to overwork without meaningful progress."
+        "tags": "Falta de enfoque, burnout, mediocridad, agotamiento, distracción, bajo rendimiento, fatiga, estancamiento, pereza",
+        "description": "El Ocho de Oros advierte sobre la pérdida de enfoque, perfeccionismo paralizante o el agotamiento debido al exceso de trabajo sin progreso significativo. Puede señalar desmotivación, aburrimiento laboral o la necesidad de reevaluar si estás invirtiendo energía en la dirección correcta."
       }
     },
     {
-      "name": "Nine of Pentacles",
+      "name": "Nueve de Oros",
       "image": "https://i.ibb.co/XkCKRrgq/Pentacles-9.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Virgo",
-        "element": "Earth"
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Luxury, self-sufficiency, achievement, independence, elegance, reward, comfort, success",
-        "description": "The Nine of Pentacles celebrates the rewards of hard work, independence, and enjoying the fruits of your labor."
+        "tags": "Lujo, autosuficiencia, logro, independencia, elegancia, recompensa, confort, éxito",
+        "description": "El Nueve de Oros celebra las recompensas del trabajo duro, la independencia y el disfrute de los frutos de tu labor. Esta carta augura estabilidad, seguridad material y éxito merecido, indicando un momento para relajarse y complacerse a uno mismo. Refleja logros personales, confianza y madurez en la gestión de recursos"
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Overindulgence, isolation, financial setbacks, excess, imbalance, misfortune, disconnection, instability",
-        "description": "The Nine of Pentacles may signal that material success is overshadowed by isolation or excess."
+        "tags": "Exceso, aislamiento, contratiempos financieros, exceso, desequilibrio, desgracia, desconexión, inestabilidad",
+        "description": "El Nueve de Oros simboliza una falta de independencia, inestabilidad financiera, gastos imprudentes o la búsqueda de éxito a través de medios deshonestos. Indica obstáculos para lograr ganancias materiales, dependencia de otros, vivir por encima de tus posibilidades o el fracaso por falta de esfuerzo. Invita a trabajar en tu propia seguridad, no depender de otros y ser más realista con tus recursos."
       }
     },
     {
-      "name": "Ten of Pentacles",
+      "name": "Diez de Oros",
       "image": "https://i.ibb.co/jvBt6zQp/Pentacles-10.png",
       "represents": {
-        "planet": "Mercury",
+        "planet": "Mercurio",
         "zodiac": "Virgo",
-        "element": "Earth"
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Wealth, inheritance, family, legacy, stability, prosperity, tradition, security",
-        "description": "The Ten of Pentacles represents the culmination of financial stability, legacy, and family security."
+        "tags": "Riqueza, herencia, familia, legado, estabilidad, prosperidad, tradición, seguridad",
+        "description": "El Diez de Oros representa la culminación de la estabilidad financiera, el legado y la seguridad familiar. Esta carta simboliza el establecimiento de un legado duradero, la seguridad material y la armonía, indicando que los esfuerzos actuales darán frutos sólidos, a menudo asociados con la herencia o la estabilidad del hogar. Muestra que el trabajo duro ha construido algo permanente."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Family conflict, financial instability, loss, disruption, discord, breakdown, uncertainty, struggle",
-        "description": "The Ten of Pentacles warns of disruptions in family or financial matters that undermine long-term security."
+        "tags": "Conflicto familiar, inestabilidad financiera, pérdida, interrupción, discordia, colapso, incertidumbre, lucha",
+        "description": "El Diez de Oros advierte sobre interrupciones en asuntos familiares o financieros que socavan la seguridad a largo plazo. Indica la ruptura de un legado, falta de cimientos sólidos, inestabilidad en el hogar, o comportarse como la \"oveja negra\" al alejarse de las tradiciones familiares establecidas. Advierte sobre la inestabilidad y la necesidad de revisar si se está construyendo sobre bases firmes."
       }
     },
     {
-      "name": "Page of Pentacles",
+      "name": "Sota de Oros",
       "image": "https://i.ibb.co/XxqtBkTQ/Page-of-Pentacles.png",
       "represents": {
         "planet": "",
-        "zodiac": "Aries, Gemini",
-        "element": "Earth"
+        "zodiac": "Aries, Géminis",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Manifestation, study, focus, potential, growth, learning, ambition, opportunity",
-        "description": "The Page of Pentacles is a messenger of new opportunities and encourages you to study and harness your potential for success."
+        "tags": "Manifestación, estudio, enfoque, potencial, crecimiento, aprendizaje, ambición, oportunidad",
+        "description": "La Sota de Oros es un mensajero de nuevas oportunidades y te anima a estudiar y aprovechar tu potencial para el éxito. Representa un enfoque práctico, estudios, buenas noticias laborales y la materialización de ideas a través de la constancia. Es una carta de tierra, centrada en la seguridad y el compromiso."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Lack of progress, distraction, immaturity, hesitation, confusion, inexperience, delay, disarray",
-        "description": "The Page of Pentacles can indicate a lack of focus or premature actions that hinder your growth."
+        "tags": "Falta de progreso, distracción, inmadurez, vacilación, confusión, inexperiencia, retraso, desorden",
+        "description": "La Sota de Oros puede indicar falta de enfoque o acciones prematuras que obstaculizan tu crecimiento. Sugiere pereza, postergación, desaprovechamiento de recursos o necesidad de revisar un plan que no funciona. Indica una etapa de bloqueo donde el esfuerzo no da frutos. Sugiere tomar un descanso para recargar energías, reconsiderar tu enfoque y dejar de procrastinar para volver a encarrilar tus metas."
       }
     },
     {
-      "name": "Knight of Pentacles",
+      "name": "Caballero de Oros",
       "image": "https://i.ibb.co/wZbkS76W/Knight-of-Pentacles.png",
       "represents": {
         "planet": "",
         "zodiac": "Virgo, Leo",
-        "element": "Earth"
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Diligence, responsibility, efficiency, steadfast, methodical, hardworking, reliable, pragmatic",
-        "description": "The Knight of Pentacles embodies hard work, practicality, and persistence, urging you to stay steady on your path."
+        "tags": "Diligencia, responsabilidad, eficiencia, firmeza, metódico, trabajador, confiable, pragmático",
+        "description": "El Caballero de Oros encarna el trabajo duro, la practicidad y la persistencia, animándote a mantenerte firme en tu camino. Representa el progreso lento pero seguro, el compromiso con el trabajo bien hecho y la construcción de estabilidad material a largo plazo. Invita a avanzar con paciencia y método, sin apresurarse, confiando en que el esfuerzo constante y sostenido terminará dando frutos."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Stubbornness, laziness, inflexibility, procrastination, rigidity, indolence, passivity, inertia",
-        "description": "The Knight of Pentacles may warn of becoming too rigid or even lazy, impeding progress."
+        "tags": "Terquedad, pereza, inflexibilidad, procrastinación, rigidez, indolencia, pasividad, inercia",
+        "description": "El Caballero de Oros advierte sobre rigidez, estancamiento o pérdida de motivación. Puede señalar rutina improductiva, promesas incumplidas o esfuerzos que no están dando frutos. Invita a detenerse, revisar la planificación y reequilibrar responsabilidades, buscando un punto medio entre la ambición material y el bienestar personal para superar el aburrimiento o la falta de motivación."
       }
     },
     {
-      "name": "Queen of Pentacles",
+      "name": "Reina de Oros",
       "image": "https://i.ibb.co/xS7d6ykv/Queen-of-Pentacles.png",
       "represents": {
         "planet": "",
-        "zodiac": "Capricorn, Sagittarius",
-        "element": "Earth"
+        "zodiac": "Capricornio, Sagitario",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Practicality, nurturing, security, stability, warmth, resourcefulness, care, abundance",
-        "description": "The Queen of Pentacles is a nurturing figure who combines practicality with a caring nature to create a secure environment."
+        "tags": "Practicidad, cuidado, seguridad, estabilidad, calidez, ingenio, atención, abundancia",
+        "description": "La Reina de Oros es una figura cuidadosa que combina practicidad con una naturaleza afectuosa para crear un entorno seguro. Representa una figura maternal, práctica y centrada, capaz de gestionar recursos con sabiduría y crear estabilidad financiera y doméstica. Esta carta augura un periodo de prosperidad y éxito fruto del esfuerzo constante. Es una invitación a disfrutar de la riqueza lograda (tanto material como emocional) cuidando de sí mismo y de los demás."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Overbearing, materialistic, neglectful, domineering, selfish, inconsiderate, rigid, unbalanced",
-        "description": "The Queen of Pentacles might indicate a focus on material matters to the detriment of emotional or personal care."
+        "tags": "Dominante, materialista, descuidada, autoritaria, egoísta, desconsiderada, rígida, desequilibrada",
+        "description": "La Reina de Oros puede indicar un enfoque en los asuntos materiales en detrimento del cuidado emocional o personal. Representa inestabilidad financiera, materialismo, desorganización y la necesidad de enraizarse. Puede señalar ansiedad en relaciones, falta de transparencia, o una actitud posesiva y fuera de control. Es una llamada de atención para priorizar tu bienestar, organizar tus finanzas y no dar más de lo que recibes."
       }
     },
     {
-      "name": "King of Pentacles",
+      "name": "Rey de Oros",
       "image": "https://i.ibb.co/KxYYLqD5/King-of-Pentacles.png",
       "represents": {
         "planet": "",
-        "zodiac": "Taurus, Aries",
-        "element": "Earth"
+        "zodiac": "Tauro, Aries",
+        "element": "Tierra"
       },
       "upright": {
         "yesno": "Yes",
-        "tags": "Abundance, leadership, stability, prosperity, authority, success, solidity, reliability",
-        "description": "The King of Pentacles represents success, financial security, and a commanding presence in the material realm."
+        "tags": "Abundancia, liderazgo, estabilidad, prosperidad, autoridad, éxito, solidez, fiabilidad, protector",
+        "description": "El Rey de Oros representa éxito, seguridad financiera y una presencia dominante en el ámbito material. Simboliza a una figura madura, confiable y protectora, que disfruta de las comodidades de la vida. Invita a la responsabilidad, la paciencia y a confiar en la propia capacidad para crear una vida cómoda y segura."
       },
       "reversed": {
         "yesno": "No",
-        "tags": "Tyranny, stubbornness, poor financial decisions, mismanagement, rigidity, avarice, risk, imprudence",
-        "description": "The King of Pentacles warns of mismanagement of resources or an overemphasis on material control."
+        "tags": "Tiranía, terquedad, malas decisiones financieras, mala administración, rigidez, avaricia, riesgo, imprudencia",
+        "description": "El Rey de Oros advierte sobre la mala gestión de recursos o un énfasis excesivo en el control material. Sugiere materialismo excesivo, manipulación, decisiones económicas arriesgadas, inestabilidad, comportamiento egoísta, obsesión por el estatus y una falta de visión a largo plazo. Es un llamado a reevaluar tus valores y finanzas."
       }
     }
   ],
